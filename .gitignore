@@ -1,0 +1,25 @@
+# Initial publication uses an explicit allowlist.
+# Add reviewed source directories deliberately when preparing a code release.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# Private configuration and local build output stay excluded at every depth.
+**/.env
+**/.env.*
+**/*credentials*
+**/*secrets*
+**/*.pfx
+**/*.p12
+**/*.pem
+**/*.key
+**/SaveData/
+**/SaveDataBackup/
+**/Library/
+**/Temp/
+**/Logs/
+**/UserSettings/
+**/*.log
+**/*.log.gz
+
