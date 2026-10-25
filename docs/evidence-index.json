@@ -1,0 +1,120 @@
+{
+  "schema": "SfmPublicEvidenceIndex/v1",
+  "scope": "Selected receipt fields only. Not new runtime tests. Private save/profile payloads and raw logs omitted.",
+  "receipts": [
+    {
+      "localRelativeSource": "runtime/latest-playable.json",
+      "sourceBytes": 3138,
+      "sourceSHA256": "f4d8a3f07f3b1ee37ef011416e93eda27d71ed79eafb53b51eb2081d6d6ccf71",
+      "selectedFields": {
+        "schema": "SfmLatestPlayable/v8",
+        "updated_utc": "2026-10-23T07:49:43.655689+00:00",
+        "build": "home-street-body-preview-margin-v2",
+        "game_sha256": "767CBF8E89A97C0519D29573C20020E13EB4CB15FDF0EA3408E5B3E4A0150A57",
+        "verified_scope": "Actual Player: four paired standing/kneeling/raised-leg/final-standing Body captures reviewed; sampled preview clipping fixed by owned adaptive FOV. Original-input two-pose/alternate/cancel/walk-release/camera flow and all 488 durable rows preserved. Original gameplay CIL unchanged. Task/NPC/UI and physical keyboard feedback are explicitly inherited, not rerun manual acceptance of this build.",
+        "full_home_street_loop_accepted": false,
+        "complete_rendering_accepted": false
+      },
+      "rawReceiptPublished": false
+    },
+    {
+      "localRelativeSource": "runtime/home-prepared-loop-player-v4.json",
+      "sourceBytes": 11394,
+      "sourceSHA256": "541a3348f36608545b929bedbfbd51f3d1d79f1021f563e9b4db2676d924887b",
+      "selectedFields": {
+        "schema": "SfmPreparedLoopRuntimeReview/v4",
+        "utc": "2026-10-23T01:56:08.148780+00:00",
+        "buildName": "home-street-prepared-loop-v4",
+        "playerGameSHA": "E7705A1FF67E431DC366F31612FDFE7DF1FD8B914189E3BA32DEEC9DA3449062",
+        "currentTaskSettlementSaveColdAccepted": true,
+        "currentNonzeroIncomeNpcFailureAccepted": true,
+        "task": {
+          "id": 100000,
+          "rpBefore": 30,
+          "rpAfter": 40,
+          "reward": 10,
+          "expBefore": 90,
+          "expAfter": 100,
+          "achievementBefore": 6,
+          "achievementAfter": 7,
+          "coldDurableRows": 474
+        },
+        "preparedRowsPreserved": 221
+      },
+      "rawReceiptPublished": false
+    },
+    {
+      "localRelativeSource": "runtime/home-post-pose-core-player-v1.json",
+      "sourceBytes": 6929,
+      "sourceSHA256": "14a69552343d0bdbca7e981ede762c5f89f7f805451c600d3c15a45980b39e73",
+      "selectedFields": {
+        "schema": "SfmPostPoseCoreRuntimeReview/v1",
+        "utc": "2026-10-23T03:59:52.565674+00:00",
+        "buildName": "home-street-post-pose-route-v1",
+        "playerGameSHA": "92D42A8717A9E3E85ED20D9EF4D197E09AED4DC76C28784FCFC0DDE1127DFB09",
+        "taskAndNpcFailureRegressionAccepted": true,
+        "task": {
+          "taskId": 100000,
+          "permanentRpBefore": 0,
+          "permanentRpAfter": 10,
+          "reward": 10,
+          "expBefore": 100,
+          "expAfter": 110,
+          "achievementBefore": 7,
+          "achievementAfter": 8
+        },
+        "failure": {
+          "permanentRpBefore": 0,
+          "permanentRpAfter": 0,
+          "lostRoundRp": 10.784193703439087,
+          "failuresBefore": 6,
+          "failuresAfter": 7,
+          "postReturnMovedMeters": 0.7336387634277344,
+          "releaseTailMaxStep": 0.0
+        },
+        "completeRenderingAccepted": false,
+        "fullHomeStreetLoopAccepted": false
+      },
+      "rawReceiptPublished": false
+    },
+    {
+      "localRelativeSource": "runtime/manual-gameplay-feedback-20261023.json",
+      "sourceBytes": 2298,
+      "sourceSHA256": "5dcd4db4ba19678895183fd994597721af02562b103732854001b74445a9384c",
+      "selectedFields": {
+        "schema": "SfmUserGameplayAndFeedbackReview/v1",
+        "recordedUtc": "2026-10-23T14:08:19.029725+00:00",
+        "build": "home-street-body-preview-margin-v2",
+        "evidenceType": "direct-user-report-after-manual-play",
+        "basicHomeStreetSystemsAcceptedByUser": true,
+        "comprehensiveScenarioCoverageEstablished": false,
+        "fullRenderingAccepted": false,
+        "fullAudioAccepted": false,
+        "reportedGaps": [
+          {
+            "id": "ui-contrast",
+            "report": "Many UI surfaces have white text on white backgrounds.",
+            "status": "reported-investigating"
+          },
+          {
+            "id": "player-question-mark",
+            "report": "Question mark visible on the protagonist.",
+            "status": "reported-semantics-not-yet-confirmed"
+          },
+          {
+            "id": "npc-discovery-feedback",
+            "report": "NPC overhead discovery progress bar is absent.",
+            "status": "reported-investigating"
+          },
+          {
+            "id": "audio-feedback",
+            "report": "Multiple sound effects and music do not match the original.",
+            "status": "reported-specific-cues-pending"
+          }
+        ],
+        "acceptanceBoundary": "User accepts basic home/street systems in aggregate. This does not independently establish every success/failure/save branch, original-reference recording, UI or audio equivalence."
+      },
+      "rawReceiptPublished": false
+    }
+  ]
+}

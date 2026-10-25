@@ -1,25 +1,56 @@
-# Initial publication uses an explicit allowlist.
-# Add reviewed source directories deliberately when preparing a code release.
+# Code-only publication: keep top-level inclusion explicit.
 /*
 !/.gitignore
+!/.gitattributes
 !/README.md
 !/LICENSE
+!/THIRD_PARTY_NOTICES.md
+!/docs/
+!/tools/
+!/UnityProject/
 
-# Private configuration and local build output stay excluded at every depth.
-**/.env
-**/.env.*
-**/*credentials*
-**/*secrets*
-**/*.pfx
-**/*.p12
-**/*.pem
-**/*.key
-**/SaveData/
-**/SaveDataBackup/
+# Never publish game assets, executable artifacts, caches or private data.
 **/Library/
 **/Temp/
 **/Logs/
 **/UserSettings/
-**/*.log
-**/*.log.gz
-
+**/obj/
+**/bin/
+**/__pycache__/
+**/SaveData/
+**/SaveDataBackup/
+**/.env*
+**/*credentials*
+**/*secrets*
+*.dll
+*.exe
+*.pdb
+*.png
+*.jpg
+*.jpeg
+*.dds
+*.fbx
+*.obj
+*.wav
+*.ogg
+*.mp3
+*.mp4
+*.ttf
+*.otf
+*.unity
+*.prefab
+*.asset
+*.mat
+*.anim
+*.controller
+*.shader
+*.bytes
+*.dat
+*.sd
+*.zip
+*.7z
+*.log
+*.pem
+*.key
+*.pfx
+*.p12

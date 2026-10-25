@@ -1,0 +1,2 @@
+# Preserve exact exported source bytes for hash verification.
+* -text

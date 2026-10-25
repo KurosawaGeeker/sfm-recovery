@@ -1,0 +1,2127 @@
+[
+  {
+    "commit": "d5546e7c1381bb72d70dea3928e61c6bff376d36",
+    "date": "2026-10-13T11:18:47+08:00",
+    "subject": "Checkpoint SFM recovery: 1389 methods and Decal 260"
+  },
+  {
+    "commit": "808228db1ca78947357ceb6715b8f9bed6be8b8d",
+    "date": "2026-10-13T11:45:02+08:00",
+    "subject": "Fix Gauge SetMax NaN branch and capture order"
+  },
+  {
+    "commit": "72d48b0b28935921a3e31cbb3d9cf400e2567f5f",
+    "date": "2026-10-13T11:47:54+08:00",
+    "subject": "Recover DecalRoot camera lifecycle and prove original noops"
+  },
+  {
+    "commit": "b4ee2c26854686504300eb2840463e4a512c7455",
+    "date": "2026-10-13T12:06:01+08:00",
+    "subject": "Recover UI prompts and gauges plus ES3 collection writes"
+  },
+  {
+    "commit": "588de1c442d6fb4c5c388519f050d4b56177856a",
+    "date": "2026-10-13T12:08:18+08:00",
+    "subject": "Prepare larger official Unity download ranges with guarded handoff"
+  },
+  {
+    "commit": "2a76cb62451cbcb222debefc272889fccab74396",
+    "date": "2026-10-13T12:20:44+08:00",
+    "subject": "Redirect owned downloader output to logs with identity-checked restart"
+  },
+  {
+    "commit": "50cf6787dfac449ee4889fe961420ae14c8f5a31",
+    "date": "2026-10-13T12:22:28+08:00",
+    "subject": "Preserve exact creation time in downloader restart guard"
+  },
+  {
+    "commit": "f02747d4ce91d9fc05c33d673859bb0a86870425",
+    "date": "2026-10-13T12:40:13+08:00",
+    "subject": "Recover ES3 cache writes and External NavMeshPath initialization"
+  },
+  {
+    "commit": "d5fca14739a55185c660e92a4c42e80c5850e0d3",
+    "date": "2026-10-13T12:45:57+08:00",
+    "subject": "Reduce official Unity ranges after partial-response timeout evidence"
+  },
+  {
+    "commit": "6d75809a21c5f2e3c22170726db9497d4dd7b7b8",
+    "date": "2026-10-13T12:46:20+08:00",
+    "subject": "Bind three script asset samples and identify Editor provider gaps"
+  },
+  {
+    "commit": "3442db3bb31c6289dbe29ca8348ebaa2c7a9e2ea",
+    "date": "2026-10-13T13:35:54+08:00",
+    "subject": "Recover ES3 Unity value writes and freeze 1429 methods"
+  },
+  {
+    "commit": "72a0e18144a8d76b9bb21b5122ad1d112f596d28",
+    "date": "2026-10-13T13:44:37+08:00",
+    "subject": "Use official UI and Input System source providers in the Unity project"
+  },
+  {
+    "commit": "9aab8bd91932d6a36ba757b11b042443bd778df2",
+    "date": "2026-10-13T13:52:03+08:00",
+    "subject": "Recover EasyDecal camera command buffer creation and reuse"
+  },
+  {
+    "commit": "ff21df77fe3179da4e78eda2014e6f882653f624",
+    "date": "2026-10-13T14:17:28+08:00",
+    "subject": "Preserve official Unity cold-timeout restart evidence"
+  },
+  {
+    "commit": "9bc49d5d045c83cb9c899458504124131ba4c214",
+    "date": "2026-10-13T14:17:38+08:00",
+    "subject": "Bind Editor provider compilation and remaining plugin API gaps"
+  },
+  {
+    "commit": "61836f6ce8240763391ce594ed59051b95013294",
+    "date": "2026-10-13T14:34:05+08:00",
+    "subject": "Recover game widget state updates and freeze1441 methods"
+  },
+  {
+    "commit": "b1fddbb905f54d58950bb78a4bf7501a9cc928c2",
+    "date": "2026-10-13T20:59:01+08:00",
+    "subject": "Restore official TMP Editor source provider and preserve header migration evidence"
+  },
+  {
+    "commit": "ea3f45fe0a63d3622e1f5ca2431d3fb19ed0fb99",
+    "date": "2026-10-13T21:10:23+08:00",
+    "subject": "Keep Unity range downloads alive through worker TLS timeouts with verified prefix history"
+  },
+  {
+    "commit": "ecb8c8d5eb58a3946b44a455dba72903a392acb2",
+    "date": "2026-10-13T21:49:31+08:00",
+    "subject": "Stage independent MVP bridge and preserve first runtime version failure"
+  },
+  {
+    "commit": "d3c8222f8be24bface5e74733959896146bd260e",
+    "date": "2026-10-13T22:15:09+08:00",
+    "subject": "Preserve failed MVP compatibility trial and prioritize exact international Unity"
+  },
+  {
+    "commit": "4fff2b03d999c523f2d415082a6cd9839be6ac66",
+    "date": "2026-10-13T22:35:55+08:00",
+    "subject": "Verify faster global Unity routes and download missing ranges without touching old prefixes"
+  },
+  {
+    "commit": "8ae86a8d13ecad81806599b7f2813ff01545f872",
+    "date": "2026-10-13T23:22:38+08:00",
+    "subject": "checkpoint: run independent MVP on exact global Unity runtime and preserve resumable installer download"
+  },
+  {
+    "commit": "d0510349cb53698885ba2c92cc1db015b18fc712",
+    "date": "2026-10-13T23:35:01+08:00",
+    "subject": "checkpoint: finish international Unity installer with whole-file hash and valid publisher signature"
+  },
+  {
+    "commit": "def8e8ce846aa276f50c213a94fe375e046d6bab",
+    "date": "2026-10-13T23:45:30+08:00",
+    "subject": "feat: deliver playable global-runtime MVP with usable camera and one-click launcher"
+  },
+  {
+    "commit": "332195ac00071c6cee3de1c7952a873d074b9070",
+    "date": "2026-10-14T00:07:25+08:00",
+    "subject": "fix: correct reconstructed backup cleanup scope from native exception tables and file-lock counterexample"
+  },
+  {
+    "commit": "4afd85439a75bd785578ee4782135d630c68c0b2",
+    "date": "2026-10-14T00:32:24+08:00",
+    "subject": "Record verified international Unity Hub installation and activation entry"
+  },
+  {
+    "commit": "067073902212b1d14f52c4c85e1be1f1c7a02ccd",
+    "date": "2026-10-14T00:47:09+08:00",
+    "subject": "Restore 29 original persistence methods and player input resolution"
+  },
+  {
+    "commit": "a73487ad90fc6e2cbd7b9432fba55371abac89f8",
+    "date": "2026-10-14T00:52:59+08:00",
+    "subject": "Verify all 95 restoration replay profiles on the 1471 checkpoint"
+  },
+  {
+    "commit": "6c564a3a9f51103753fb11218d66950628cb7b4a",
+    "date": "2026-10-14T00:56:45+08:00",
+    "subject": "Fix Unity Hub proxy routing and verify licensed international Editor CLI"
+  },
+  {
+    "commit": "eb0ce963a8f7f15d2ba6fbe0fee865c208e8b2ea",
+    "date": "2026-10-14T01:15:05+08:00",
+    "subject": "Preserve first real Unity Editor MVP build and independent integrity review"
+  },
+  {
+    "commit": "78b42702c5f59a947110728784a6cd64a0b3222a",
+    "date": "2026-10-14T01:20:47+08:00",
+    "subject": "Verify real Editor-built MVP movement and accept visible clothed character"
+  },
+  {
+    "commit": "71eefd48a5f321e332d929527c7ad709c0cfd58e",
+    "date": "2026-10-14T01:29:12+08:00",
+    "subject": "Deliver licensed Unity Editor MVP with original apartment and visible character"
+  },
+  {
+    "commit": "06cee4b915c63639d561d911af13c05b377bdc16",
+    "date": "2026-10-14T01:35:02+08:00",
+    "subject": "Independently verify Editor MVP source assets textures and runtime provenance"
+  },
+  {
+    "commit": "b09c2011211c2eddf2aa26247c284c4392a0b709",
+    "date": "2026-10-14T01:38:54+08:00",
+    "subject": "Reuse existing BepInEx export inventory and verify texture and geometry limitations"
+  },
+  {
+    "commit": "c0ccb92d27f774134bada13c86f1f95c821ebf54",
+    "date": "2026-10-14T01:50:45+08:00",
+    "subject": "Run complete recovered project in licensed Unity and capture missing test dependencies"
+  },
+  {
+    "commit": "25c791ae61c4b03a42be88809735fac954483832",
+    "date": "2026-10-14T02:06:54+08:00",
+    "subject": "Verify original humanoid Avatar and idle walk clips in Unity Editor"
+  },
+  {
+    "commit": "42c4aa081a60a99b449097bd5006551ef09b8750",
+    "date": "2026-10-14T02:20:38+08:00",
+    "subject": "Restore original locomotion fixed update and freeze checkpoint 1472"
+  },
+  {
+    "commit": "2dbaa918cc829089b5e25d8b1991db9a4cd3d488",
+    "date": "2026-10-14T02:21:05+08:00",
+    "subject": "Verify full Unity import with official test dependencies and ShaderLab fixes"
+  },
+  {
+    "commit": "ec18477af1749bed13634525c4c3e295e42cb641",
+    "date": "2026-10-14T02:23:54+08:00",
+    "subject": "Record independent review of checkpoint 1472 evidence bindings"
+  },
+  {
+    "commit": "52c8064f392626f42558c15182440210e5359148",
+    "date": "2026-10-14T02:42:03+08:00",
+    "subject": "fix(unity): promote tested import dependencies and ColorMask generation"
+  },
+  {
+    "commit": "8a5e3936ef13e20ab032bf7b51cf714a656fc105",
+    "date": "2026-10-14T02:45:12+08:00",
+    "subject": "feat(mvp): deliver verified original idle and walk playback"
+  },
+  {
+    "commit": "5d12aed883a38c31745974484516dcabc665434a",
+    "date": "2026-10-14T02:45:54+08:00",
+    "subject": "test(unity): bind independent Full import fix review"
+  },
+  {
+    "commit": "7b6fa7bc84acb1d6140376626150871131585cc0",
+    "date": "2026-10-14T03:01:01+08:00",
+    "subject": "feat(recovery): restore fixed-frame controller dispatch and freeze checkpoint 1473"
+  },
+  {
+    "commit": "0c8502a7343f8d016bc029f28a532d7647ba423d",
+    "date": "2026-10-14T03:09:43+08:00",
+    "subject": "test(unity): verify fresh checkpoint 1473 Full Editor import"
+  },
+  {
+    "commit": "cfd77820f61bfe3e7469aafd91efc2d73d33f5a1",
+    "date": "2026-10-14T03:24:58+08:00",
+    "subject": "refactor(verification): scope fixed-frame caller guards for subsequent recovery"
+  },
+  {
+    "commit": "3a2ecbc6ce64078bf0ac007f559c08cc3ba6dc44",
+    "date": "2026-10-14T03:47:48+08:00",
+    "subject": "docs(recovery): publish complete player frame audit and unwind boundary qualification"
+  },
+  {
+    "commit": "276e931aabfc3cfc2a9a5f0369fb94305e3e2277",
+    "date": "2026-10-14T03:52:00+08:00",
+    "subject": "feat(recovery): restore locomotion state and hand-use eligibility with frozen 1475 proof"
+  },
+  {
+    "commit": "7493175d7cb5abb34feb25fb9ada4fd96d446c28",
+    "date": "2026-10-14T04:16:45+08:00",
+    "subject": "test(unity): verify frozen 1475 state dispatch in actual Play Mode"
+  },
+  {
+    "commit": "ca9dab3abf219c28742c169e63ecba76c1f140c4",
+    "date": "2026-10-14T04:24:40+08:00",
+    "subject": "test(assets): classify Unity import changes and verify 12 NavMesh round trips"
+  },
+  {
+    "commit": "0d7e0271ea97d2701707ea0d2f2bf9c582fade14",
+    "date": "2026-10-14T04:29:37+08:00",
+    "subject": "test(recovery): scope state regression guards for subsequent method recovery"
+  },
+  {
+    "commit": "6e542535f7d2865b8bf3787add0b970f553795c3",
+    "date": "2026-10-14T04:46:21+08:00",
+    "subject": "audit(movement): trace five remaining native movement dependencies"
+  },
+  {
+    "commit": "b942616bd827384f7b00e7afcb319ad8f0835851",
+    "date": "2026-10-14T05:10:46+08:00",
+    "subject": "recover(player): restore four movement methods and freeze verified checkpoint 1479"
+  },
+  {
+    "commit": "daf44c4845f08824e86d54aab0ca95c4df259a94",
+    "date": "2026-10-14T05:24:15+08:00",
+    "subject": "audit(movement): verify five dependency candidates against original native bodies"
+  },
+  {
+    "commit": "3c5dadea245592517c091fa6c87313cea56e8a26",
+    "date": "2026-10-14T05:32:32+08:00",
+    "subject": "test(movement): scope regression guards for subsequent dependency recovery"
+  },
+  {
+    "commit": "90d1b41caa5f6d7d4406088bc22971b38b3ad383",
+    "date": "2026-10-14T05:54:10+08:00",
+    "subject": "recover(movement): restore five dependencies and freeze verified checkpoint 1484"
+  },
+  {
+    "commit": "0600a6dd0ebdd90aec6401f346f9cc8db7652e09",
+    "date": "2026-10-14T05:58:53+08:00",
+    "subject": "test(unity): preserve bounded original movement engine evidence"
+  },
+  {
+    "commit": "e8cae45bbb4bf7f5d34d5fa210776e8166139f77",
+    "date": "2026-10-14T06:30:28+08:00",
+    "subject": "feat(mvp): run restored movement in an independent playable build"
+  },
+  {
+    "commit": "692a270a9e136fe9a7a666293ad227d932b043f7",
+    "date": "2026-10-14T06:32:10+08:00",
+    "subject": "test(mvp): record independent retained launcher review"
+  },
+  {
+    "commit": "9b2865d06849f10425f4b95bc7a65ceb978aa1bb",
+    "date": "2026-10-14T06:44:37+08:00",
+    "subject": "research(runtime): preserve original input configuration and stamina update candidate"
+  },
+  {
+    "commit": "3c1d484202be37e9c7050dd403ea3a15c1b83b75",
+    "date": "2026-10-14T07:01:32+08:00",
+    "subject": "test(ground): verify restored sensors with real Unity physics"
+  },
+  {
+    "commit": "c47a50c29b03cf973feda4aa4cf76031104af691",
+    "date": "2026-10-14T07:11:56+08:00",
+    "subject": "test(input): run original input and resolver through Unity events"
+  },
+  {
+    "commit": "70418a556d6cc1ca67b2362c16127bd1b65f9074",
+    "date": "2026-10-14T07:25:58+08:00",
+    "subject": "test(runtime): preserve combined stamina and ground candidate proof"
+  },
+  {
+    "commit": "f727cca4861673879b438bcf8fbbd05556c5caa5",
+    "date": "2026-10-14T07:46:21+08:00",
+    "subject": "feat(mvp): connect original input and real ground callbacks"
+  },
+  {
+    "commit": "92a13ce783422a7fe7007c7a3f3677148679d31c",
+    "date": "2026-10-14T07:47:07+08:00",
+    "subject": "fix(mvp): write the Windows launcher with correct CRLF"
+  },
+  {
+    "commit": "f5e6d0e41b78bca0ae855d4fe35cd8da581eb610",
+    "date": "2026-10-14T07:48:21+08:00",
+    "subject": "test(mvp): verify retained launcher and interactive startup"
+  },
+  {
+    "commit": "dd5ca79db9e858813574e71c0d0aa45beb6e4da8",
+    "date": "2026-10-14T07:50:16+08:00",
+    "subject": "test(checkpoint): preserve scoped movement migration and historical gates"
+  },
+  {
+    "commit": "312233bc4ef8edd96c0ab5ce56041525b9863389",
+    "date": "2026-10-14T08:00:18+08:00",
+    "subject": "feat(recovery): integrate reviewed stamina and ground bodies"
+  },
+  {
+    "commit": "e04d2651b19b9041d81c05d869a378e8dc33bdc5",
+    "date": "2026-10-14T08:20:41+08:00",
+    "subject": "test(recovery): accept checkpoint 1489 stamina and ground"
+  },
+  {
+    "commit": "3638518c7e63a366e251b19b347b125dccaf1932",
+    "date": "2026-10-14T08:22:14+08:00",
+    "subject": "chore(checkpoint): retain 1489 source backups and replay receipts"
+  },
+  {
+    "commit": "0f70ae123686823e56438a6690facc135c257730",
+    "date": "2026-10-14T08:35:59+08:00",
+    "subject": "feat(recovery): prepare nine player frame methods on checkpoint 1489"
+  },
+  {
+    "commit": "71fc49058db7f50594e68a45cba31ad2a71ed975",
+    "date": "2026-10-14T08:45:37+08:00",
+    "subject": "fix(recovery): distinguish original and compiled player frame tokens"
+  },
+  {
+    "commit": "0854cbf79341eac4ff4c680d59b60ee63c84ffbb",
+    "date": "2026-10-14T09:07:15+08:00",
+    "subject": "feat(recovery): integrate nine player frame methods and guarded proofs"
+  },
+  {
+    "commit": "e0ac7758a87664022ef63178ba9b4af70c6e17e8",
+    "date": "2026-10-14T09:15:39+08:00",
+    "subject": "test(recovery): accept checkpoint 1498 with frozen frame regressions"
+  },
+  {
+    "commit": "480b164bfb084037f79539bdf9d893c1285afa1b",
+    "date": "2026-10-14T09:25:41+08:00",
+    "subject": "feat(mvp): deliver playable original player frame build"
+  },
+  {
+    "commit": "c6132ae5e282089c6a08d28212787e13f1d97e1f",
+    "date": "2026-10-14T09:43:34+08:00",
+    "subject": "test(resources): verify five recovered shader passes in Unity D3D11"
+  },
+  {
+    "commit": "455121ae5294068b86b0e864a90143fe006d02f1",
+    "date": "2026-10-14T09:57:28+08:00",
+    "subject": "fix(mvp): restore original transparent particle materials and retain playable build"
+  },
+  {
+    "commit": "dad3f35884c602d40ca2dbb683b21f1e7ea9ebd0",
+    "date": "2026-10-14T10:11:06+08:00",
+    "subject": "feat(resources): extract complete original UTS GPU program inventory"
+  },
+  {
+    "commit": "5272a4b184aa57c85116a99e444ea811fdac3a38",
+    "date": "2026-10-14T10:13:31+08:00",
+    "subject": "feat(resources): derive UTS HLSL candidates from all original GPU programs"
+  },
+  {
+    "commit": "ccb01a290899d91d9716867ad370911ec1e9ffa3",
+    "date": "2026-10-14T10:37:10+08:00",
+    "subject": "test(resources): preserve original UTS bindings and bounded hardware pixel proof"
+  },
+  {
+    "commit": "16086dfb955d3d205e7a889fed153cdaa47aeb10",
+    "date": "2026-10-14T10:44:44+08:00",
+    "subject": "feat(resources): derive original GradeMap shader GPU candidates"
+  },
+  {
+    "commit": "c64e98dd505cb9c8464b68fb2e99a35efdbcee0b",
+    "date": "2026-10-14T10:53:00+08:00",
+    "subject": "test(recovery): preserve two animation candidates and independent 916-case replay"
+  },
+  {
+    "commit": "ce942b7f0c0a4bbb42b534ae72e7883b6061e621",
+    "date": "2026-10-14T11:07:33+08:00",
+    "subject": "test(resources): verify original UTS pair through actual Unity property uploads"
+  },
+  {
+    "commit": "e50fc2d3e33ff035da6889408c7a3d3b3e22896d",
+    "date": "2026-10-14T11:17:02+08:00",
+    "subject": "test(resources): verify original GradeMap named shader bindings"
+  },
+  {
+    "commit": "57db4295d9baff10fa3a488b3a85a8cf8f1e8bbe",
+    "date": "2026-10-14T11:30:35+08:00",
+    "subject": "test(recovery): retain three action candidates and 4324-case independent replay"
+  },
+  {
+    "commit": "3c141eef46b886a3c1b00cb96b612f8b04427873",
+    "date": "2026-10-14T11:33:17+08:00",
+    "subject": "test(resources): preserve exact UTS dispatch tables and unresolved stage pairs"
+  },
+  {
+    "commit": "b23bf645abd840b06e91c5615b90ca2588702265",
+    "date": "2026-10-14T11:40:20+08:00",
+    "subject": "test(recovery): verify five-body merge with independent source and metadata audit"
+  },
+  {
+    "commit": "0f82ab3763c0a28c1e9743c4cf8237f63cfb7332",
+    "date": "2026-10-14T11:48:03+08:00",
+    "subject": "feat(recovery): preserve transactional five-method source provider"
+  },
+  {
+    "commit": "53ff2f30b5d1704367cd9245126e9a3bbda9730f",
+    "date": "2026-10-14T12:00:25+08:00",
+    "subject": "test(recovery): retain exact production guard and baseline rejection"
+  },
+  {
+    "commit": "ca021be56bb900d22717ae10f470529dc18c7e22",
+    "date": "2026-10-14T12:08:43+08:00",
+    "subject": "build(recovery): prepare held-project compilation and actual five-body review"
+  },
+  {
+    "commit": "cdad4914fbc52f797324f5522281a4926503d5d8",
+    "date": "2026-10-14T12:12:31+08:00",
+    "subject": "build(recovery): prepare five-method checkpoint integration"
+  },
+  {
+    "commit": "7d8cbd3ac3fa196cd8cda6dbeb5b3124fa7a43d7",
+    "date": "2026-10-14T12:17:43+08:00",
+    "subject": "fix(recovery): pin validator source closure before executing Freeze gate"
+  },
+  {
+    "commit": "77915a6941527eddef1d685aa15a1856ddee6afc",
+    "date": "2026-10-14T12:24:24+08:00",
+    "subject": "test(recovery): seal five-method canonical proof and independent deployment replay"
+  },
+  {
+    "commit": "e0683ddeefff7c212b36b05506d55140f80ca7fb",
+    "date": "2026-10-14T12:28:56+08:00",
+    "subject": "feat(recovery): integrate five action and animation bodies for production verification"
+  },
+  {
+    "commit": "955475a4db1ef92b9c48dfe6c4426d9d4b3d6335",
+    "date": "2026-10-14T13:01:23+08:00",
+    "subject": "test(recovery): accept checkpoint 1503 with actual production proofs"
+  },
+  {
+    "commit": "b01005ca147171ca90e465e5b3a9779e3b2d0ee9",
+    "date": "2026-10-14T13:02:13+08:00",
+    "subject": "feat(mvp): publish playable original animation update build"
+  },
+  {
+    "commit": "4b14f93204a67282baf4dd6f0e5d476b3cfb2b04",
+    "date": "2026-10-14T13:26:03+08:00",
+    "subject": "test(recovery): verify original animation transition candidates"
+  },
+  {
+    "commit": "4e873a1c77f27f164ed61418b905769659fefe15",
+    "date": "2026-10-14T13:37:55+08:00",
+    "subject": "test(recovery): verify ring menu and shortcut label candidates"
+  },
+  {
+    "commit": "41e06d7dbcd9b8481c256bc6a26aafcc3bed4f6f",
+    "date": "2026-10-14T13:46:53+08:00",
+    "subject": "test(recovery): verify action-end rotation and type initialization"
+  },
+  {
+    "commit": "cd2f0ca5e2e2495c637b9d2ef979f454b2d019e5",
+    "date": "2026-10-14T13:49:27+08:00",
+    "subject": "docs(recovery): verify original action resources and record missing masks"
+  },
+  {
+    "commit": "cae12b3f6bb851df48925ef5349066121382bf21",
+    "date": "2026-10-14T14:14:31+08:00",
+    "subject": "test(recovery): verify merged action completion against original behavior"
+  },
+  {
+    "commit": "50e56837ea5d469b3a67c0b058f7bb433f0bf0f3",
+    "date": "2026-10-14T14:18:53+08:00",
+    "subject": "test(unity): verify original action resources and recover mask mapping"
+  },
+  {
+    "commit": "5097438f29fcc529802b74bffa60fbb7ea97d35b",
+    "date": "2026-10-14T14:21:48+08:00",
+    "subject": "fix(recovery): guard action source replay and preserve rollback evidence"
+  },
+  {
+    "commit": "4062cd57311178f2dfec30b136eda54ae361c453",
+    "date": "2026-10-14T16:43:31+08:00",
+    "subject": "feat(dev): establish scenario-driven SFM development loop and fast logic checks"
+  },
+  {
+    "commit": "a1965fa925ac73b6e267f2b372191058daa9bd89",
+    "date": "2026-10-14T17:05:19+08:00",
+    "subject": "feat(dev): add Unity scenario harness, replay and visual comparison tools"
+  },
+  {
+    "commit": "0aa4e5e4b879766a6700ddbbfd68106f4f93c0c1",
+    "date": "2026-10-14T17:19:43+08:00",
+    "subject": "fix(dev): isolate harness startup and terminate timed-out test processes"
+  },
+  {
+    "commit": "0a50e5f9d18e98f629003fe6751b41b212daa5cb",
+    "date": "2026-10-14T17:24:59+08:00",
+    "subject": "test(dev): verify seeded gameplay replay, checkpoints and screenshot comparisons"
+  },
+  {
+    "commit": "4bc1cd95881df84bba102742c80f78c642c69068",
+    "date": "2026-10-14T17:26:15+08:00",
+    "subject": "chore(dev): exclude local verifier caches from harness source"
+  },
+  {
+    "commit": "32217c5a65f9e7f4d9ca4e90051cbe3d389f9f28",
+    "date": "2026-10-19T01:00:26+08:00",
+    "subject": "feat(recovery): run original action animation completion in standalone MVP"
+  },
+  {
+    "commit": "0b22c2dc2f0fc0293bff7d38e4d855d522c82469",
+    "date": "2026-10-19T01:01:09+08:00",
+    "subject": "feat(recovery): prove SaveManager Save orchestration against native behavior"
+  },
+  {
+    "commit": "3bd788697184d42b75b6705164c57e3bc366aeb9",
+    "date": "2026-10-19T01:11:26+08:00",
+    "subject": "feat(mvp): publish guarded original-action demo with independent runtime review"
+  },
+  {
+    "commit": "70a8f85cd33ebc33a457e4045876079afac3e089",
+    "date": "2026-10-19T01:22:10+08:00",
+    "subject": "feat(recovery): restore system-save metadata with native clock-bound proof"
+  },
+  {
+    "commit": "caaa33d0b0ceb26ac9a408ed3acf8c144aec7125",
+    "date": "2026-10-19T01:36:02+08:00",
+    "subject": "feat(recovery): restore int bool and generic save writers with native and file proofs"
+  },
+  {
+    "commit": "2508bd9a21b40c53f230fa95c9c6e47af8fe5a2c",
+    "date": "2026-10-19T01:40:52+08:00",
+    "subject": "feat(recovery): verify original system saves across two unhooked Unity processes"
+  },
+  {
+    "commit": "1989d458a15adfc88d9f2f4d6ea003960e61688a",
+    "date": "2026-10-19T12:35:43+08:00",
+    "subject": "feat(recovery): prove original world-state capture and map gameplay framework gaps"
+  },
+  {
+    "commit": "19d0dcfcf0bc3a2271acf94b2e287978e433c935",
+    "date": "2026-10-19T12:47:08+08:00",
+    "subject": "feat(recovery): restore original frame dispatcher and NPC state lifecycle candidates"
+  },
+  {
+    "commit": "c5368a39b7b0e1e519e8660e60eb49f93ee34489",
+    "date": "2026-10-19T13:04:07+08:00",
+    "subject": "feat(recovery): restore original save-file copy and record stage and NPC startup dependencies"
+  },
+  {
+    "commit": "e472ae8642cb1ff284f15728c9f137212f52c58b",
+    "date": "2026-10-19T13:08:40+08:00",
+    "subject": "feat(recovery): verify original world capture saves and Warp across six Unity processes"
+  },
+  {
+    "commit": "ba6a6828f904f46b3589d06d39d60d180d59fde8",
+    "date": "2026-10-19T13:29:56+08:00",
+    "subject": "Checkpoint sealed portal, NPC construction, fast travel and frame candidates"
+  },
+  {
+    "commit": "6db5d3e3ead5db457d259ea8db3d97637f065bbe",
+    "date": "2026-10-19T13:49:05+08:00",
+    "subject": "Restore core equipment rules with real Unity verification; checkpoint shop and NPC perception code"
+  },
+  {
+    "commit": "cab9eb154b5eb2c2cc8079cfba83e29ab47739ba",
+    "date": "2026-10-19T13:53:34+08:00",
+    "subject": "Checkpoint mission reward primitives and typed body customization evidence"
+  },
+  {
+    "commit": "80551c40ca1aff0d33d8d75ea6849558438a49a7",
+    "date": "2026-10-19T14:28:07+08:00",
+    "subject": "Checkpoint verified shopping entry, mission core and NPC suspicion loops"
+  },
+  {
+    "commit": "a72db418a4ed0db32b628f131e0b703861bb3988",
+    "date": "2026-10-19T14:40:10+08:00",
+    "subject": "Verify real Unity seven-category shopping and checkpoint NPC state transitions"
+  },
+  {
+    "commit": "e3832e02a0052cd8a8d670fd2458473283d3f551",
+    "date": "2026-10-19T15:16:07+08:00",
+    "subject": "Checkpoint corrected body code, real mission initialization and core MVP foundation"
+  },
+  {
+    "commit": "d1676ff9c214fbaee147183e0a66010a998b040f",
+    "date": "2026-10-19T15:40:06+08:00",
+    "subject": "Ship partial core MVP with combined shop and action runtime proof"
+  },
+  {
+    "commit": "eeefa5a658ae398195a4a470af6a5a73b05ae493",
+    "date": "2026-10-19T15:48:23+08:00",
+    "subject": "Recover original NPC normal frame dispatch and state updates"
+  },
+  {
+    "commit": "84dbf3f697c605d87da7b53524ff935120f65906",
+    "date": "2026-10-19T15:58:13+08:00",
+    "subject": "Recover original NPC searcher frames and verify real body inputs"
+  },
+  {
+    "commit": "c23f4708e248de8660b0bf56d8239f951db3ab81",
+    "date": "2026-10-19T16:26:08+08:00",
+    "subject": "Recover original equipment transactions and NPC Manager frames"
+  },
+  {
+    "commit": "2608e77c86804eb77e66257f1b412e3ed6550c41",
+    "date": "2026-10-19T16:57:31+08:00",
+    "subject": "Release original body customization with same-actor core gameplay MVP"
+  },
+  {
+    "commit": "1664dc64f469dc85a3eb197471b48a3bd6984f81",
+    "date": "2026-10-19T17:01:00+08:00",
+    "subject": "Recover original mission reward settlement and NPC initialization foundations"
+  },
+  {
+    "commit": "dbde8f353447ffc773d0040f5184f139bf79b34e",
+    "date": "2026-10-19T17:33:51+08:00",
+    "subject": "Integrate original equipment transactions and recover home settlement callbacks"
+  },
+  {
+    "commit": "d6ba568afaac849daf63047c8f3dc0cc94faa995",
+    "date": "2026-10-19T18:10:25+08:00",
+    "subject": "Checkpoint original core initialization and equipment input foundation"
+  },
+  {
+    "commit": "57d62cd0847b7cbfc6b8116f158f49847a6b2afd",
+    "date": "2026-10-19T18:33:08+08:00",
+    "subject": "Restore original Slow initialization and verify equipment transaction progress"
+  },
+  {
+    "commit": "6f08080450896e930c467a76600b2e345f3be854",
+    "date": "2026-10-19T18:45:32+08:00",
+    "subject": "Verify original equipment body shop and action in one Unity runtime"
+  },
+  {
+    "commit": "de3f38e3b7dde70caa19be40ff6ba8d2889af5c4",
+    "date": "2026-10-19T18:59:09+08:00",
+    "subject": "Release manual equipment core MVP with original gameplay transaction"
+  },
+  {
+    "commit": "aa59da0fad37cd5e313a2b56f0a7988abb2daf60",
+    "date": "2026-10-19T19:24:17+08:00",
+    "subject": "Verify original Konbini navigation and checkpoint core route and portal code"
+  },
+  {
+    "commit": "a9800279a2494125c393e11d3e84c1d0ca8c44e8",
+    "date": "2026-10-19T19:45:36+08:00",
+    "subject": "Integrate original NPC construction code and verify alert fade and LookAt prerequisites"
+  },
+  {
+    "commit": "3de13324738dfa3fe5c17c589cdc0a1b14525e57",
+    "date": "2026-10-19T20:50:08+08:00",
+    "subject": "Integrate original NPC initialization and core movement with strict gameplay preservation"
+  },
+  {
+    "commit": "416b242a846876f9260d34ba70594a4195b24289",
+    "date": "2026-10-19T21:41:29+08:00",
+    "subject": "Preserve NPC lifecycle integration and verified Unity constructor checkpoint"
+  },
+  {
+    "commit": "840f599b06f2322f84e12e1e69e2a2e41e1d0b54",
+    "date": "2026-10-19T22:02:53+08:00",
+    "subject": "Integrate original task settlement and store core code with Unity assembly proof"
+  },
+  {
+    "commit": "ff38abd655c186dd9061e9a5ffe0d1785ab7dbad",
+    "date": "2026-10-19T23:05:09+08:00",
+    "subject": "Verify actual Unity task graph and preserve route and rank recovery checkpoints"
+  },
+  {
+    "commit": "0a38d59630b7f46fb3b5111b630e68f71cfc1ca9",
+    "date": "2026-10-19T23:21:31+08:00",
+    "subject": "Integrate original NPC routes and rank support with complete Unity code guard"
+  },
+  {
+    "commit": "d04b381acfd22bdbbf7340978441ca81b11e96c8",
+    "date": "2026-10-19T23:39:50+08:00",
+    "subject": "Integrate original clothes actions and NPC delayed fixed actions with complete code guard"
+  },
+  {
+    "commit": "07365d1d2e92ffdff42804797c31395147315837",
+    "date": "2026-10-20T02:18:11+08:00",
+    "subject": "Integrate original discovery calculations and NPC animation frame with complete code guard"
+  },
+  {
+    "commit": "58b4761aad39589066355da25ff03a47eb35a742",
+    "date": "2026-10-20T02:30:32+08:00",
+    "subject": "Preserve actual NPC animation initialization and isolate owned Editor probe startup"
+  },
+  {
+    "commit": "cfa45338c0991916d068ea92712c562938846bac",
+    "date": "2026-10-20T02:40:15+08:00",
+    "subject": "Validate original NPC animation and natural Scheduler frames in Unity"
+  },
+  {
+    "commit": "7fd2ec21da64d8a99a87302000936385d908002c",
+    "date": "2026-10-20T02:53:53+08:00",
+    "subject": "Integrate original clothing frame, state events and four task conditions"
+  },
+  {
+    "commit": "6b13d2adedbfcc2368962abafd87e812879b8537",
+    "date": "2026-10-20T02:57:56+08:00",
+    "subject": "Integrate original movement quantities and crouch and blind task families"
+  },
+  {
+    "commit": "5e38bb15afcf8a60dee53706afad19d50ce3a89a",
+    "date": "2026-10-20T03:12:59+08:00",
+    "subject": "Preserve actual player frame failure at original ring startup dependency"
+  },
+  {
+    "commit": "87f97fe0bcc331f7269cbf64699cbd6832898a4f",
+    "date": "2026-10-20T03:20:59+08:00",
+    "subject": "Integrate original clothing drops, NPC equipment tasks and stage point initialization"
+  },
+  {
+    "commit": "029f837e3cadaee87af4884d6d6bb627a77b7764",
+    "date": "2026-10-20T03:31:35+08:00",
+    "subject": "Integrate complete original stage startup and fast travel family"
+  },
+  {
+    "commit": "b24d592ea6a85dba596afbe0cf1831b24f1d160f",
+    "date": "2026-10-20T03:47:17+08:00",
+    "subject": "Integrate original portal and complete mirror startup bodies"
+  },
+  {
+    "commit": "58dd51d0a73baa59a2c29f7266dcad647ad01101",
+    "date": "2026-10-20T03:52:44+08:00",
+    "subject": "Integrate original handcuff production and unlock transitions"
+  },
+  {
+    "commit": "0c4225c6094becf69b6fa02074da10c19707101e",
+    "date": "2026-10-20T04:07:17+08:00",
+    "subject": "Integrate full original ring and shortcut startup with strict field union"
+  },
+  {
+    "commit": "41317254a4f11713d5d42898f8a2c5c5c2b25f69",
+    "date": "2026-10-20T04:15:53+08:00",
+    "subject": "Verify real original player frames after full ring startup"
+  },
+  {
+    "commit": "845396eb68f9f9d8ed26caca49c9c5dc422e6f0c",
+    "date": "2026-10-20T04:32:44+08:00",
+    "subject": "Integrate original home save chain and NPC collision search input"
+  },
+  {
+    "commit": "eb935e7d683a438359238f3cb94661f0ca3b18c6",
+    "date": "2026-10-20T04:44:02+08:00",
+    "subject": "Integrate original result confirmation and NPC foreign-look frame logic"
+  },
+  {
+    "commit": "d55c7621fd484d6295621db4ee2e8bef0ce48dca",
+    "date": "2026-10-20T04:52:25+08:00",
+    "subject": "Integrate original ring interaction frames and NPC facial layer state"
+  },
+  {
+    "commit": "acb221190b7dc217bac92560e975597ceaed8115",
+    "date": "2026-10-20T05:15:43+08:00",
+    "subject": "Integrate original mission income and area producers with normal portal reuse"
+  },
+  {
+    "commit": "a2d7d8065c2ae708ec6d7075a506674a9e65cab5",
+    "date": "2026-10-20T05:32:29+08:00",
+    "subject": "Restore core ring menu, RP producers and portal prerequisites"
+  },
+  {
+    "commit": "b08f9e6a9d3f73fb843ab8f11157ef00cef03a8c",
+    "date": "2026-10-20T05:43:21+08:00",
+    "subject": "Prepare original gameplay resources and preserve first lifecycle failure"
+  },
+  {
+    "commit": "8f66e25fedb01bc9c6629b2cde84a46c7613d302",
+    "date": "2026-10-20T05:48:27+08:00",
+    "subject": "Advance original bootstrap to real Player and expose camera startup gap"
+  },
+  {
+    "commit": "da3e95e0804ef1c861dedc2d0112bfd5b5dfaf61",
+    "date": "2026-10-20T05:59:44+08:00",
+    "subject": "Restore inventory item binding and body detection mission conditions"
+  },
+  {
+    "commit": "9f72bc8065f233ef302f8238c2662e322696ecb1",
+    "date": "2026-10-20T06:12:32+08:00",
+    "subject": "Restore camera startup, inventory tabs and continuous task conditions"
+  },
+  {
+    "commit": "f6f8cddbfc936de587feb881ed4e01740baf5861",
+    "date": "2026-10-20T06:24:05+08:00",
+    "subject": "Advance original startup through camera initialization and record next input blocker"
+  },
+  {
+    "commit": "4d396d7f2febe032bc157c47a13cef76865a95e6",
+    "date": "2026-10-20T06:30:50+08:00",
+    "subject": "Restore camera mode prerequisites and full vibration task producer"
+  },
+  {
+    "commit": "2b556e82e2dbc53e587d233e3246c8942b8068da",
+    "date": "2026-10-20T06:34:40+08:00",
+    "subject": "Restore full inventory parent lifecycle and vertical camera input"
+  },
+  {
+    "commit": "cd18419a6c511e17530a9c1e9d4dfdede5293db1",
+    "date": "2026-10-20T06:43:01+08:00",
+    "subject": "Restore original input binding lifecycle and persistence"
+  },
+  {
+    "commit": "f84b87c4e751b62d33cff4f196891721081ffe6d",
+    "date": "2026-10-20T06:46:33+08:00",
+    "subject": "Verify original normal startup over ninety real frames"
+  },
+  {
+    "commit": "0067b9e3c7af6cfb3c9c636eaae5a857894efde2",
+    "date": "2026-10-20T07:11:52+08:00",
+    "subject": "Restore inventory child startup and complete camera frame logic"
+  },
+  {
+    "commit": "e253cb48426892b4421da3186ecdfcdcc04b4284",
+    "date": "2026-10-20T07:13:43+08:00",
+    "subject": "Verify original automatic keyboard input and natural player movement"
+  },
+  {
+    "commit": "7e42f6d14e8a3703482d80fb2ca8c79b49b263ea",
+    "date": "2026-10-20T07:23:01+08:00",
+    "subject": "Restore original world event listeners and correct cold cursor initialization"
+  },
+  {
+    "commit": "b356c8939fe1f4ecf1a7a0a3436e703521b4e46f",
+    "date": "2026-10-20T07:24:39+08:00",
+    "subject": "Verify Root88 original scene startup and automatic input integration"
+  },
+  {
+    "commit": "6881838a2a577439dc1e84a1763e7aaa770264da",
+    "date": "2026-10-20T07:37:52+08:00",
+    "subject": "Restore ordinary item transactions and complete base camera transitions"
+  },
+  {
+    "commit": "70ac1f3596e42a61312ddc96cfa3e6dd29ec2347",
+    "date": "2026-10-20T07:42:06+08:00",
+    "subject": "Verify Root90 natural startup and original core UI prerequisites"
+  },
+  {
+    "commit": "2ab9f5e3cce4d0231fffda9a6705c760501db491",
+    "date": "2026-10-20T07:57:19+08:00",
+    "subject": "Restore original player discovery and reaction state chain"
+  },
+  {
+    "commit": "2b79b91214a5ee73e67036461be863af3843a645",
+    "date": "2026-10-20T08:14:05+08:00",
+    "subject": "Restore original NPC animation discovery event production"
+  },
+  {
+    "commit": "97678afacd5f614a10a0ba7f200ee78547505a63",
+    "date": "2026-10-20T08:16:24+08:00",
+    "subject": "Observe original Residence lifecycle and preserve startup failures"
+  },
+  {
+    "commit": "c67e2c9b771b14de1658a9130a84e132a1543a2b",
+    "date": "2026-10-20T08:21:29+08:00",
+    "subject": "Restore original core menu and keyboard UI producer"
+  },
+  {
+    "commit": "94fa4a637ead54e13b689af4b67f5a3b55b861ce",
+    "date": "2026-10-20T08:29:54+08:00",
+    "subject": "Restore original Residence NPC route lifecycle"
+  },
+  {
+    "commit": "6c89eb68198e293e053691e6b0eaa8b0bdc2910d",
+    "date": "2026-10-20T08:33:10+08:00",
+    "subject": "Restore original gameplay HUD frame updates"
+  },
+  {
+    "commit": "31e7b73e28d516b50d38f28b0650d33736d17861",
+    "date": "2026-10-20T08:36:14+08:00",
+    "subject": "Verify Root96 original HUD startup and natural keyboard movement"
+  },
+  {
+    "commit": "d06ff07f606211d23be6c1c7b96607b9d1a76963",
+    "date": "2026-10-20T08:43:05+08:00",
+    "subject": "Verify natural keyboard menu and actual EventSystem Inventory entry"
+  },
+  {
+    "commit": "3ce605c383546013fe91a23ea67b6ebf6a7d17f1",
+    "date": "2026-10-20T08:49:47+08:00",
+    "subject": "Record actual Inventory Cancel delivery and missing frame handler"
+  },
+  {
+    "commit": "b2f3a4638363e117350fa4ec81f1105c9dc3b195",
+    "date": "2026-10-20T09:00:34+08:00",
+    "subject": "Restore original PC parent lifecycle with actual-image replay"
+  },
+  {
+    "commit": "99e5e863e5542aafe97837ede76052da7ef81bbf",
+    "date": "2026-10-20T09:08:21+08:00",
+    "subject": "Restore original NPC normal observation and turn frame rules"
+  },
+  {
+    "commit": "d64a3416bc9c25d51114ea70417727b28639286e",
+    "date": "2026-10-20T09:20:06+08:00",
+    "subject": "Restore complete Inventory input frame and normal mission panel production"
+  },
+  {
+    "commit": "265026f475fb988bcaa75273030f18ef86a033ad",
+    "date": "2026-10-20T09:23:28+08:00",
+    "subject": "Restore complete original mission progress and completion frame"
+  },
+  {
+    "commit": "e0ea8349436050bc821d709e8ab245c2636aa931",
+    "date": "2026-10-20T09:29:28+08:00",
+    "subject": "Verify natural original Inventory return and actual physical Portal entry"
+  },
+  {
+    "commit": "1bac6103e7d6b771fb0b23adadedebd490ee28b1",
+    "date": "2026-10-20T09:42:04+08:00",
+    "subject": "Verify original Residence transition spawn and natural NPC population"
+  },
+  {
+    "commit": "3a56b28f19851c75f7fc43adb1039237b66126e0",
+    "date": "2026-10-20T10:00:25+08:00",
+    "subject": "Restore original world interaction and player interaction input"
+  },
+  {
+    "commit": "0d0b22b218a9247b4840a008fe45ef6d2a3dda4b",
+    "date": "2026-10-20T10:10:02+08:00",
+    "subject": "Diagnose original NPC motion stopped by frozen global clock"
+  },
+  {
+    "commit": "7a67f823d2476737c291fb966e40d9f00cdd1dfa",
+    "date": "2026-10-20T10:35:07+08:00",
+    "subject": "Verify original tutorial dismissal and five NPCs walking naturally"
+  },
+  {
+    "commit": "056a349f44b0d16942ef8fb27d49e24579fec0ab",
+    "date": "2026-10-20T11:04:45+08:00",
+    "subject": "Import original world interaction into independent gameplay runtime"
+  },
+  {
+    "commit": "37ce60e9b00e9f953706a0bc3920706b028641b7",
+    "date": "2026-10-20T11:15:32+08:00",
+    "subject": "Verify normal WASD and F interaction opens original PC menu"
+  },
+  {
+    "commit": "fceb49357a771db38d70ad1025ebb847540e2f5f",
+    "date": "2026-10-20T11:22:16+08:00",
+    "subject": "Restore original online shop startup selection and ownership code"
+  },
+  {
+    "commit": "b2c6d8435825a662f3477155f28fe3b7697ad6be",
+    "date": "2026-10-20T11:28:38+08:00",
+    "subject": "Sync shopping core source into independent gameplay runtime"
+  },
+  {
+    "commit": "99e9bf565205cefa67be30c8fcd2f8c3fff1a66e",
+    "date": "2026-10-20T11:37:20+08:00",
+    "subject": "Prepare original scene Player packaging with complete input binding"
+  },
+  {
+    "commit": "a65c31a29c6d5d18b6b3261760ff20a56492c0dd",
+    "date": "2026-10-20T11:51:13+08:00",
+    "subject": "Restore original shopping input and SystemMenu pause resume"
+  },
+  {
+    "commit": "1031da4eefbc8ae73b2b8eea213c9eef5abb9146",
+    "date": "2026-10-20T12:12:40+08:00",
+    "subject": "Import original shopping and pause core with preserved runtime evidence"
+  },
+  {
+    "commit": "46db5be11288024902876ccf66bc50592aada09d",
+    "date": "2026-10-20T12:20:23+08:00",
+    "subject": "Restore original Closet parent and verify NPC detection prerequisites"
+  },
+  {
+    "commit": "679dad5027e50d1dc1fc5a85db6288d58dffe6f3",
+    "date": "2026-10-20T12:31:42+08:00",
+    "subject": "Verify original shop hair catalog and movement after pause"
+  },
+  {
+    "commit": "20105b85cd39834a21f67ae4ceac60f70a78e6b6",
+    "date": "2026-10-20T12:44:01+08:00",
+    "subject": "Preserve complete original body slider and color control restoration"
+  },
+  {
+    "commit": "08fe71dd75757304ce56bca4af8b6d7617f8f0fb",
+    "date": "2026-10-20T13:09:42+08:00",
+    "subject": "Restore original body controls and third-person camera with complete evidence"
+  },
+  {
+    "commit": "d3ae7af81545b93ee99700b938f6e8fb14f3f98d",
+    "date": "2026-10-20T13:18:06+08:00",
+    "subject": "Import original closet body and camera code into independent gameplay project"
+  },
+  {
+    "commit": "0af9244aca0846fd86cad0f294a49fdb58a45d28",
+    "date": "2026-10-20T13:25:28+08:00",
+    "subject": "Preserve complete body customization refresh and natural NPC first-hit observer"
+  },
+  {
+    "commit": "a8cafaed2ed15b1e90b4310ae47fb5a25deb5ad6",
+    "date": "2026-10-20T13:43:16+08:00",
+    "subject": "Restore complete body customization production and validate standalone core code"
+  },
+  {
+    "commit": "ad6ec0cff9c8f31ea6bdf9c6a59915f02aa54feb",
+    "date": "2026-10-20T14:17:25+08:00",
+    "subject": "Preserve real tutorial close and NPC ground-wait evidence"
+  },
+  {
+    "commit": "90d69a101c2efd294f5019f3e0abf18b23c8e435",
+    "date": "2026-10-20T14:25:43+08:00",
+    "subject": "Restore original owned equipment checks and feedback"
+  },
+  {
+    "commit": "5d22207d9ccfbfa829cddc38a95782867c1e0e3c",
+    "date": "2026-10-20T14:41:23+08:00",
+    "subject": "Restore complete body menu initialization in independent gameplay project"
+  },
+  {
+    "commit": "c1d7c09edae1a643587568186d7a63f16a5a1869",
+    "date": "2026-10-20T14:54:40+08:00",
+    "subject": "Checkpoint accepted Root110 live project sources for direct rollback"
+  },
+  {
+    "commit": "6592671d14182b93ac3986fa8168047550a1ea4b",
+    "date": "2026-10-20T15:03:47+08:00",
+    "subject": "Preserve NPC sight evidence and exact original failure-flow correction"
+  },
+  {
+    "commit": "445f86aeb69e5f0bb8911130367d4dc1396b51d5",
+    "date": "2026-10-20T15:24:29+08:00",
+    "subject": "Restore complete original failure flow and preserve natural walking evidence"
+  },
+  {
+    "commit": "072949e5419621cf49f69d8740268150f3ced50e",
+    "date": "2026-10-20T15:47:07+08:00",
+    "subject": "Restore original equipment catalog and equip click code with complete rollback source"
+  },
+  {
+    "commit": "733c8ec9a4ea0adf64e43e8da8ec46a2a833edb8",
+    "date": "2026-10-20T15:57:02+08:00",
+    "subject": "Restore original player late body update with native and actual assembly evidence"
+  },
+  {
+    "commit": "a2465e285bcd8b824caa0e674e276ebc1469bdfc",
+    "date": "2026-10-20T16:05:21+08:00",
+    "subject": "Sync core gameplay recovery into independent runtime and prepare SDK interaction observers"
+  },
+  {
+    "commit": "77e20268715ef67c62de11f35166d73056d14fc2",
+    "date": "2026-10-20T16:10:51+08:00",
+    "subject": "Preserve actual equipment observation failure and identify owned field alias error"
+  },
+  {
+    "commit": "381acea7287105541e5a9b5687a9ec2e9180b4ad",
+    "date": "2026-10-20T16:36:56+08:00",
+    "subject": "Restore original clothing and travel distance mission condition code"
+  },
+  {
+    "commit": "5db5baf9efebd3f462159ed1ee1bc2c2ac26e34e",
+    "date": "2026-10-20T16:44:19+08:00",
+    "subject": "Verify real equipment unequip and restore with original model and UI feedback"
+  },
+  {
+    "commit": "587d1b7d3231384973c71995e0ea80c4dcc1dde2",
+    "date": "2026-10-20T17:17:40+08:00",
+    "subject": "Restore original footwear consumer and verify all four body customization effects"
+  },
+  {
+    "commit": "76d3d056174ae9fb139505abf137b7d28642c22d",
+    "date": "2026-10-20T17:31:25+08:00",
+    "subject": "Preserve NPC navigation partial run with complete editor domain and original input constraints"
+  },
+  {
+    "commit": "e3eaa414255e8c9c91dda19642d56927a9651513",
+    "date": "2026-10-20T17:47:26+08:00",
+    "subject": "Verify original body customization close and isolated manual/system save"
+  },
+  {
+    "commit": "1ebb845df40a21a50199be70638db3b46a4fe63b",
+    "date": "2026-10-20T17:54:40+08:00",
+    "subject": "Sync original mission and footwear code into independently guarded gameplay runtime"
+  },
+  {
+    "commit": "8da6af2eeebebcc580de62006c7e721327e8decf",
+    "date": "2026-10-20T18:18:30+08:00",
+    "subject": "Restore complete original clothing shrink event consumers"
+  },
+  {
+    "commit": "10c745919f71a4fdfc58dd0d36f2cd8e8a5f0334",
+    "date": "2026-10-20T18:42:51+08:00",
+    "subject": "Preserve saved-home NPC test failure and core gameplay recovery preparations"
+  },
+  {
+    "commit": "17c9429e63aec0077f8b12d3400091821b32f74b",
+    "date": "2026-10-20T18:48:40+08:00",
+    "subject": "Import original clothing effects into independently guarded gameplay project"
+  },
+  {
+    "commit": "306bec20eb158a4f0e55d939969a9ee6db56c3c0",
+    "date": "2026-10-20T19:07:36+08:00",
+    "subject": "Verify saved-game traversal and original NPC sight and clothing input"
+  },
+  {
+    "commit": "32e6805ba6d75170a3882535543324b01d283d29",
+    "date": "2026-10-20T19:11:06+08:00",
+    "subject": "Preserve original message UI recovery and NPC discovery timing evidence"
+  },
+  {
+    "commit": "ac4b0a5d8b6f89ceb682617aa7185a912e8540ff",
+    "date": "2026-10-20T19:30:20+08:00",
+    "subject": "Preserve actual NPC approach and complete original message UI compiler carrier"
+  },
+  {
+    "commit": "2aaccdeebed2ee7ae9fb5d7d31793724713d02c8",
+    "date": "2026-10-20T19:33:35+08:00",
+    "subject": "Preserve complete original shopping preview recovery and dynamic route evidence"
+  },
+  {
+    "commit": "1048ad22d1db9fb4ba772a4ac72a1096d52a45a8",
+    "date": "2026-10-20T20:10:48+08:00",
+    "subject": "Recover original message UI and verify natural NPC suspicion growth"
+  },
+  {
+    "commit": "ffaf9d156142f0c8d19c8d6b4a1006445b8297ea",
+    "date": "2026-10-20T20:19:18+08:00",
+    "subject": "Import original message UI into guarded gameplay project with full rollback"
+  },
+  {
+    "commit": "b8b3ae00bd44a5a54440353a37d4abe7b7874edb",
+    "date": "2026-10-20T20:43:37+08:00",
+    "subject": "Recover original shopping preview and preserve complete equipment body callback"
+  },
+  {
+    "commit": "139365f2aa1710d2cfb4a75fadcb2afaf1746258",
+    "date": "2026-10-20T20:59:40+08:00",
+    "subject": "Retain actual NPC bounded walking and qualified partial path evidence"
+  },
+  {
+    "commit": "f352a5be7ded27bb4916e06507e3f15efc584962",
+    "date": "2026-10-20T21:10:01+08:00",
+    "subject": "Recover complete original equipment body-change behavior and exception flow"
+  },
+  {
+    "commit": "84d316a6388f2b6c311f0c6722df3b7f31658c7f",
+    "date": "2026-10-20T21:27:42+08:00",
+    "subject": "Import recovered equipment and shopping gameplay into independent project"
+  },
+  {
+    "commit": "c45fb77a438d9ff9a736de9f7cd385b685983c78",
+    "date": "2026-10-20T22:39:29+08:00",
+    "subject": "Preserve verified original mission ID getter candidate without gameplay acceptance"
+  },
+  {
+    "commit": "24f4e5b87939d8fbcdab9c6f24b17f86abbb4655",
+    "date": "2026-10-20T22:50:43+08:00",
+    "subject": "Identify natural NPC detection constraints and prepare guarded income-test import"
+  },
+  {
+    "commit": "e5f2692de2468ab091080c0ed10aab1378bfa2c9",
+    "date": "2026-10-20T23:24:56+08:00",
+    "subject": "Preserve escalator mission candidate and actual guarded natural-income observer import"
+  },
+  {
+    "commit": "66435c006d4c3937a285916a6a90e93fbeb35110",
+    "date": "2026-10-20T23:29:58+08:00",
+    "subject": "Preserve escalator lifecycle recovery and failed natural-income observation evidence"
+  },
+  {
+    "commit": "0bc056547b31672a37099c897cef0510f2246cfc",
+    "date": "2026-10-20T23:36:11+08:00",
+    "subject": "Correct natural mission observer stage-list binding and retain actual import"
+  },
+  {
+    "commit": "5096784db55b427761bd7a21284cf9de0329e727",
+    "date": "2026-10-20T23:57:08+08:00",
+    "subject": "Preserve escalator control recovery and actual input startup failure evidence"
+  },
+  {
+    "commit": "3b814714c37029e8dfa548402b9f102787b487c1",
+    "date": "2026-10-21T00:02:04+08:00",
+    "subject": "Fix bounded natural-input startup, original close states and item purchase targeting"
+  },
+  {
+    "commit": "6c9c25676769ba87a918c52cdf0e46d4fce484d5",
+    "date": "2026-10-21T00:18:58+08:00",
+    "subject": "Integrate original escalator mission progress with exact actual behavior validation"
+  },
+  {
+    "commit": "041242c3b88fd719ff752455f367c8686fff277f",
+    "date": "2026-10-21T00:25:07+08:00",
+    "subject": "Handle original absent mission achievement baseline and retain actual observer import"
+  },
+  {
+    "commit": "78a27a04e6451420ebf122af59fd8f2a402e2cc0",
+    "date": "2026-10-21T00:32:40+08:00",
+    "subject": "Preserve original area mission recovery and physical integration preparation"
+  },
+  {
+    "commit": "d96ef265141cc5797a621740e7b12d854bbd7b26",
+    "date": "2026-10-21T00:46:46+08:00",
+    "subject": "Sequence natural input after original camera initialization and preserve actual imports"
+  },
+  {
+    "commit": "ca0cae750a43ad350d306d5f48ad313239b7c488",
+    "date": "2026-10-21T00:54:18+08:00",
+    "subject": "Integrate original escalator physics and preserve actual natural Residence entry"
+  },
+  {
+    "commit": "6cffa3e93fa9bca9b7dd7a0d317930d45b4e34a9",
+    "date": "2026-10-21T01:02:02+08:00",
+    "subject": "Observe original tutorial cooldown before single cancel input"
+  },
+  {
+    "commit": "fded2cb14a796f0ddeccfe43d05ff407e7c1fd3e",
+    "date": "2026-10-21T01:15:30+08:00",
+    "subject": "Preserve natural mission completion and income with Home return failure evidence"
+  },
+  {
+    "commit": "29d37c71fcbcc6653561a75f8b19d43149d022f2",
+    "date": "2026-10-21T01:32:17+08:00",
+    "subject": "Checkpoint unfinished escalator work and stop expansion for Home street gameplay"
+  },
+  {
+    "commit": "5bf054b0e614b6595ffa0adf00a796a4124b9fd6",
+    "date": "2026-10-21T01:40:27+08:00",
+    "subject": "Constrain work to Home street loop and retain exact bootstrap lifecycle attempt"
+  },
+  {
+    "commit": "35f85787dd6cfa9caf95a7895f469dcbee957f28",
+    "date": "2026-10-21T01:58:48+08:00",
+    "subject": "Fix Home return initialization and verify natural task income settlement"
+  },
+  {
+    "commit": "76126d8102e3c297087c441516dc3a4f714be17e",
+    "date": "2026-10-21T02:21:57+08:00",
+    "subject": "Verify saved Home progress reload and correct save observation semantics"
+  },
+  {
+    "commit": "3a51d8054338a52e58d280ebb256f7f102f1d902",
+    "date": "2026-10-21T02:41:09+08:00",
+    "subject": "Verify Home-street round trip, settlement backup and PC interaction"
+  },
+  {
+    "commit": "8ea995d4b98fc288bf2cc9e27eb58022a7ef02a0",
+    "date": "2026-10-21T03:07:14+08:00",
+    "subject": "Restore Home manual save and repair two-scene render dependencies"
+  },
+  {
+    "commit": "59c12e1611d33e750895a1c10f67298e8b058af4",
+    "date": "2026-10-21T03:30:03+08:00",
+    "subject": "Clear Home-street build errors and retain actual purchase input diagnostics"
+  },
+  {
+    "commit": "05dcf1adea43457e3f7ee14bf3396c1079d521e9",
+    "date": "2026-10-21T03:42:23+08:00",
+    "subject": "Verify natural Home purchase and retain pre-save and character-render diagnostics"
+  },
+  {
+    "commit": "49fa9f7858b8b8a37d916d9df5a15d22c9db6f32",
+    "date": "2026-10-21T03:52:10+08:00",
+    "subject": "Verify Home purchase save and cold reload and restore original Linear rendering"
+  },
+  {
+    "commit": "54d5557e70f82ae8e93502d628729638addad34e",
+    "date": "2026-10-21T04:04:11+08:00",
+    "subject": "Confirm restored character rendering in the two-scene Linear Player"
+  },
+  {
+    "commit": "8686afe4396b7eeeea8496a135c2270dd9d58ea1",
+    "date": "2026-10-21T04:21:00+08:00",
+    "subject": "Prepare natural Home-to-street NPC consequence test with unchanged game code"
+  },
+  {
+    "commit": "c7d91c195686ac49ea4c207b5a1ff43f71e2a461",
+    "date": "2026-10-21T04:23:42+08:00",
+    "subject": "Retain actual Home-to-street navigation and bounded NPC encounter failure"
+  },
+  {
+    "commit": "b81dd7234161a08bfd41cc2b9e846eb4d7ee1b51",
+    "date": "2026-10-21T04:29:06+08:00",
+    "subject": "Diagnose missing automated keyboard events without changing game input"
+  },
+  {
+    "commit": "e1e89b59f3634bab6c32461d35abd6966a7a6a04",
+    "date": "2026-10-21T04:33:41+08:00",
+    "subject": "Verify owned glasses equip unequip and normal return through original UI"
+  },
+  {
+    "commit": "d27a2a1e4f30a5bca5edb2ea74c27fd61dd27790",
+    "date": "2026-10-21T04:41:38+08:00",
+    "subject": "Verify natural NPC approach sight and suspicion before bounded discovery timeout"
+  },
+  {
+    "commit": "7adfba98d18e0c22c0e1d1a79c304e2ac8ae174a",
+    "date": "2026-10-21T04:48:58+08:00",
+    "subject": "Add direct launcher for the verified Home and street player"
+  },
+  {
+    "commit": "f267ef6c9f973c123ed7f24a26aca4f495eba268",
+    "date": "2026-10-21T04:53:53+08:00",
+    "subject": "Retain bounded wardrobe input failure and direct Home street entry guidance"
+  },
+  {
+    "commit": "9c8a1ad527b1d92f47fdb0913451dc243a527fa9",
+    "date": "2026-10-21T04:57:57+08:00",
+    "subject": "Restore normal keyboard selection and retain bounded wardrobe route obstruction"
+  },
+  {
+    "commit": "13002e56d7e45ffad0bb3ca061d54870ec5b66fc",
+    "date": "2026-10-21T05:03:57+08:00",
+    "subject": "Retain bounded NPC route rejection before front-facing interaction"
+  },
+  {
+    "commit": "863d0759df7b57d63e17e2685b4fee723f0b5b71",
+    "date": "2026-10-21T05:06:50+08:00",
+    "subject": "Retain second bounded NPC approach and prioritize missing return transit"
+  },
+  {
+    "commit": "3f30e169a0f9c1949628a5caa6723622fcd59c58",
+    "date": "2026-10-21T05:08:33+08:00",
+    "subject": "Verify normal wardrobe height controls model restoration and original save"
+  },
+  {
+    "commit": "9d534884e96b090a23d2c29b8feee2e780c93cfe",
+    "date": "2026-10-21T05:21:27+08:00",
+    "subject": "Include original failure-return transit in the Home and street player"
+  },
+  {
+    "commit": "b856ef8313935a93c25c30c13ccf98973768aff2",
+    "date": "2026-10-21T05:26:29+08:00",
+    "subject": "Use nearby NPC approach and retain normal sprint route obstruction"
+  },
+  {
+    "commit": "f5eda9eb643233b80ad0e90d6373950198a3f339",
+    "date": "2026-10-21T05:40:56+08:00",
+    "subject": "Correct NPC corner following and retain empty nearby candidate wait"
+  },
+  {
+    "commit": "cc036b21c7c8d71730d44ac8789ce2c216b93a26",
+    "date": "2026-10-21T05:54:19+08:00",
+    "subject": "Recover original vending token lifecycle candidate and pin strict Game comparison"
+  },
+  {
+    "commit": "63a3401eed6de4585953912c937a8afb399bebfc",
+    "date": "2026-10-21T06:07:55+08:00",
+    "subject": "Restore street NPC vending interaction and verify actual Unity assembly"
+  },
+  {
+    "commit": "3caff25bb2da1f4c451472b46de1824120c0f550",
+    "date": "2026-10-21T11:41:29+08:00",
+    "subject": "Bind recovered NPC gameplay to normal-input run and retain corner-limit evidence"
+  },
+  {
+    "commit": "0e84c8e5cf8631a438d5306900ddf7523f110a7b",
+    "date": "2026-10-21T11:45:33+08:00",
+    "subject": "Build Home-street v5 with recovered NPC core and retain v4 rollback"
+  },
+  {
+    "commit": "12716244a89b8023e4cc358948f02a78314e153c",
+    "date": "2026-10-21T11:49:59+08:00",
+    "subject": "Bound NPC corner corrections by accepted paths and retain runtime stop evidence"
+  },
+  {
+    "commit": "14d78f4ae8ec59962dda51d7cfdf59a5e5c4d98b",
+    "date": "2026-10-21T11:53:19+08:00",
+    "subject": "Record delivered NPC movement inputs and diagonal-corner stop diagnosis"
+  },
+  {
+    "commit": "300b6aa546ee3f6d51dfaa222a2e92eef7b0901d",
+    "date": "2026-10-21T20:02:32+08:00",
+    "subject": "Move development context to LayerFS with verified native Unity workspace and pause cleanup"
+  },
+  {
+    "commit": "869f08d5b3b707d4ea4171a6df39dadc6742ea1c",
+    "date": "2026-10-21T20:12:41+08:00",
+    "subject": "Resume verified duplicate cleanup after successful LayerFS startup validation"
+  },
+  {
+    "commit": "7a6baba1a62d3f9c4e72be49b83fccaa1b164e29",
+    "date": "2026-10-21T20:16:16+08:00",
+    "subject": "Parallelize verified duplicate cleanup with bounded workers and safe stop support"
+  },
+  {
+    "commit": "1fb645f6ca187a95bcf35fbcbaae28def4c6ca61",
+    "date": "2026-10-21T20:21:44+08:00",
+    "subject": "Add verified read-only duplicate cleanup and nonrecursive empty-directory cleanup"
+  },
+  {
+    "commit": "e2e32afd6a5959f85d6a524db5294ec8a8fe92fa",
+    "date": "2026-10-21T20:25:56+08:00",
+    "subject": "Retain locked ancestor handles to accelerate verified duplicate cleanup"
+  },
+  {
+    "commit": "fd4f5406b4377b8d878ec0f5a0493b4236ae2342",
+    "date": "2026-10-21T20:29:59+08:00",
+    "subject": "Bound hash buffers to file size and batch empty-directory checks by depth"
+  },
+  {
+    "commit": "d722ecfb4cb0bcc89bc99a5bc7116015b6f0e2b2",
+    "date": "2026-10-21T20:41:34+08:00",
+    "subject": "Record completed duplicate cleanup and retained Unity integrity verification"
+  },
+  {
+    "commit": "f3c0447cb9c3e56ed39e6025f05b7e4a2cbf1e3a",
+    "date": "2026-10-21T21:07:44+08:00",
+    "subject": "Port NPC acceptance harness to LayerFS and verify native Unity import"
+  },
+  {
+    "commit": "08fcd63fa021c94ec132989d924212803342551c",
+    "date": "2026-10-21T21:21:44+08:00",
+    "subject": "Record LayerFS NPC approach run and unresolved movement evidence"
+  },
+  {
+    "commit": "baffa0b11389e866dfaf0bb2ed6e2f59c2c8263d",
+    "date": "2026-10-21T21:38:15+08:00",
+    "subject": "Restore native mission menu, repair shared UI visibility, and verify v6 Player"
+  },
+  {
+    "commit": "c445941be57cc6f788592208db130122af63ceb2",
+    "date": "2026-10-21T23:41:24+08:00",
+    "subject": "Define SFM recovery goals and enforce one native Player with LayerFS archives"
+  },
+  {
+    "commit": "75a6abc4d35ac2fc551d54fc266df9f86ad4ad42",
+    "date": "2026-10-22T00:07:21+08:00",
+    "subject": "Verify LayerFS Player archives, single-build restore and sandbox space reclamation"
+  },
+  {
+    "commit": "6881580fd2b702913ae95e4443865087f2cb3ca5",
+    "date": "2026-10-22T00:48:02+08:00",
+    "subject": "Define full gameplay reference coverage and record UI launch blocker"
+  },
+  {
+    "commit": "c77f54dc7dd07c39be33b79317612e8612628ea6",
+    "date": "2026-10-22T02:04:42+08:00",
+    "subject": "Record verified original home preflight and preserve isolated user session"
+  },
+  {
+    "commit": "0cf4b01facc61781ef5d68900ce3b93a096dcb07",
+    "date": "2026-10-22T11:08:15+08:00",
+    "subject": "Capture original equipment toggle and preset behavior with partial coverage"
+  },
+  {
+    "commit": "dd9125b8d1ed34cc5054e8033699689744379b5e",
+    "date": "2026-10-22T11:23:22+08:00",
+    "subject": "Archive verified original equipment reference and remove idle recording copies"
+  },
+  {
+    "commit": "7cad58c6741d6f76762838ee6acd39ce96758390",
+    "date": "2026-10-22T11:29:36+08:00",
+    "subject": "Record original return-key remapping and current input blocker"
+  },
+  {
+    "commit": "68f767459de21638aaa35e328addb6dfda56d845",
+    "date": "2026-10-22T11:41:30+08:00",
+    "subject": "Capture original mission menu and isolate game keyboard input failure"
+  },
+  {
+    "commit": "fd9068c6fda0989f1c127f1ec85b4280c9b281c7",
+    "date": "2026-10-22T12:12:58+08:00",
+    "subject": "Fix original SFM menu input with reversible raw-keyboard scan compatibility"
+  },
+  {
+    "commit": "e70066134b42cfbb31863d6029a722d48092cc65",
+    "date": "2026-10-22T12:14:11+08:00",
+    "subject": "Match input-validation screenshot suffixes to JPEG encoding"
+  },
+  {
+    "commit": "8d60f553a45a43ac22b60787d520d82133adb07c",
+    "date": "2026-10-22T13:04:45+08:00",
+    "subject": "Add bounded Unity keyboard hold adapter and read-only movement observation"
+  },
+  {
+    "commit": "2394e52bd4ae8e8c4d2cbd841d32ec0ff943eb81",
+    "date": "2026-10-22T13:24:15+08:00",
+    "subject": "Validate bounded original-game walk sprint and release with safe keyboard deltas"
+  },
+  {
+    "commit": "9b7399418cd6f4af681a841fe8e23d2b4482bdfc",
+    "date": "2026-10-22T14:07:18+08:00",
+    "subject": "Document agreed game systems and complete gameplay acceptance in AGENTS"
+  },
+  {
+    "commit": "8355fc6f45d18e51c54fd39e12179f3657084f33",
+    "date": "2026-10-22T14:28:14+08:00",
+    "subject": "chore(rea): record 6.7 upgrade and verified IL2CPP source tooling"
+  },
+  {
+    "commit": "7d5f5afabacf3252560f020c11fe4f42fe25a8ae",
+    "date": "2026-10-22T14:51:09+08:00",
+    "subject": "Recover player collision and animation helpers with REA 6.7 and Unity evidence"
+  },
+  {
+    "commit": "c6414104b565dcd90bdd73485bacce2940895d0c",
+    "date": "2026-10-22T15:09:41+08:00",
+    "subject": "Recover original post-discovery escape event and navigation"
+  },
+  {
+    "commit": "e4f27b9a85cb2736543605ccea715e8330996d7e",
+    "date": "2026-10-22T15:34:13+08:00",
+    "subject": "Isolate save profile and observe natural NPC discovery and life loss"
+  },
+  {
+    "commit": "6373cc735da5ad374a27c75a1688339bb329630e",
+    "date": "2026-10-22T15:53:56+08:00",
+    "subject": "Recover original footstep events, surface audio and NPC sound delivery"
+  },
+  {
+    "commit": "a093262d3fdb66a70732c1fc8613bb3043dcc294",
+    "date": "2026-10-22T16:28:42+08:00",
+    "subject": "Observe all NPC animation layers and correct normal-input route tracking"
+  },
+  {
+    "commit": "1674de3130d56c078056e0a028b32c05f0ec6a38",
+    "date": "2026-10-22T16:42:07+08:00",
+    "subject": "Verify v7 Player packaging and retain actual Home camera obstruction; restore reviewed builds on demand"
+  },
+  {
+    "commit": "2af7987270466a0927764cda4eb26039ba56befb",
+    "date": "2026-10-22T16:42:40+08:00",
+    "subject": "Stage continuous task-income-purchase-save diagnostic and audit existing footstep clips"
+  },
+  {
+    "commit": "8eb7f026c29f01838a6316b61c769edde73d5b00",
+    "date": "2026-10-22T16:51:04+08:00",
+    "subject": "Record verified LayerFS cache release and VHD compaction after v7 archive"
+  },
+  {
+    "commit": "42ad327c78aaee1f3faa66a49dbd1d407a008c80",
+    "date": "2026-10-22T17:19:03+08:00",
+    "subject": "Verify v6c-v7 camera CIL equivalence and isolate build GUID configuration difference"
+  },
+  {
+    "commit": "fa4ae48de44ae614704e2f77d9cde5f5340ac561",
+    "date": "2026-10-22T17:32:09+08:00",
+    "subject": "Observe Home camera collision without game writes and correct raw field binding"
+  },
+  {
+    "commit": "a99f43228d25580f5d788659e46f04fa76c3fbb5",
+    "date": "2026-10-22T17:48:28+08:00",
+    "subject": "Verify empty-profile Home camera control and preserve native spawn and shader evidence"
+  },
+  {
+    "commit": "c983e63c54e94b0eab82a3f4480ab653c326eebd",
+    "date": "2026-10-22T18:03:24+08:00",
+    "subject": "Verify continuous Home street task settlement purchase save and same-profile cold read"
+  },
+  {
+    "commit": "c688a6e6c6d54d84a1295591e8089fc2d52ed8b9",
+    "date": "2026-10-22T18:14:31+08:00",
+    "subject": "Stage evidence-based NPC approach selection and isolated Player input visual diagnostics"
+  },
+  {
+    "commit": "a4d193de0ea1d25fab2c69dd22c58655c1881e20",
+    "date": "2026-10-22T18:27:38+08:00",
+    "subject": "Integrate isolated standalone Player input and rendered evidence recorder"
+  },
+  {
+    "commit": "5143d766bc009e94499cc9b72b9d29e5879c8015",
+    "date": "2026-10-22T18:31:04+08:00",
+    "subject": "Record real NPC failure return and destroyed avatar listener regression"
+  },
+  {
+    "commit": "4972c2e6c0debe597f41838866160aeb699f5aeb",
+    "date": "2026-10-22T18:44:56+08:00",
+    "subject": "Restore original scene and player disposal chain for NPC failure return"
+  },
+  {
+    "commit": "777d783a4b48fc80f3765cdb1f99048974e9955a",
+    "date": "2026-10-22T19:02:55+08:00",
+    "subject": "Record actual Player preview defects and position-based release evidence"
+  },
+  {
+    "commit": "823bd873de6cf0ed07a91c84823da578d752bf6a",
+    "date": "2026-10-22T19:09:54+08:00",
+    "subject": "Retain failed initial NPC reachability test without accepting return lifecycle"
+  },
+  {
+    "commit": "e9372c3b149376468d947a5b4651f02fe38233f6",
+    "date": "2026-10-22T19:15:51+08:00",
+    "subject": "Restore original SMAA mode and eight masks on the bound player controller"
+  },
+  {
+    "commit": "36ecdb0e85e5899c2b304f60e6d7f40826e1199e",
+    "date": "2026-10-22T19:39:02+08:00",
+    "subject": "Verify original masks and SMAA in actual Home Player movement and rendering"
+  },
+  {
+    "commit": "4256307dca6aaa7a2d6915b7e7e44c563f5872c9",
+    "date": "2026-10-22T20:08:11+08:00",
+    "subject": "Verify actual NPC failure and stable Home return after reachable target selection"
+  },
+  {
+    "commit": "a47b78070c143839f04b0838f2eef1b25e41e90c",
+    "date": "2026-10-22T20:09:11+08:00",
+    "subject": "Recover original preview framing candidate with native and REA evidence"
+  },
+  {
+    "commit": "db0ea0b7489bc50636b435fe34acef2e82213033",
+    "date": "2026-10-22T20:20:00+08:00",
+    "subject": "Restore original face and body preview camera behavior and verify actual Unity import"
+  },
+  {
+    "commit": "6712bb80f1f9042ce7c2d27d4e4b433f4e4513e4",
+    "date": "2026-10-22T20:26:18+08:00",
+    "subject": "Recover native heel and avatar height candidate with exact interface and CIL evidence"
+  },
+  {
+    "commit": "73269c86555fdde0737102086ed5e079599f62d9",
+    "date": "2026-10-22T20:51:18+08:00",
+    "subject": "Observe actual preview camera tracking and preserve unsuccessful V3 input evidence"
+  },
+  {
+    "commit": "0c31388ad76e7c7c8a842dddfadee5a598c7ca61",
+    "date": "2026-10-22T20:52:44+08:00",
+    "subject": "Provide isolated manual preview without automated input or exit and record actual startup"
+  },
+  {
+    "commit": "236ee23310802a33b0cb3719f0b1656109781d17",
+    "date": "2026-10-22T21:14:38+08:00",
+    "subject": "Restore native heel and avatar height source with static validation"
+  },
+  {
+    "commit": "808c8c3df8861dde968a065b29f916e7d0ea8ae4",
+    "date": "2026-10-22T21:22:28+08:00",
+    "subject": "Restore original HUD balance earnings and loss display source"
+  },
+  {
+    "commit": "6a804f8bead5988e57894a661093f3229a6ceb48",
+    "date": "2026-10-22T21:24:16+08:00",
+    "subject": "Prepare input routing diagnostics and reject ineffective QA movement"
+  },
+  {
+    "commit": "0fa7b0e0c2b94305c66a6c9dea224b9682b4b33c",
+    "date": "2026-10-22T21:25:58+08:00",
+    "subject": "Document original equipment and customization input flows and save semantics"
+  },
+  {
+    "commit": "d0dc74305a3156e40d3086b703faaa5d38591727",
+    "date": "2026-10-22T21:32:38+08:00",
+    "subject": "Integrate reviewed input routing observer with full source compile audit"
+  },
+  {
+    "commit": "7ec9a85804e2c4fd33257b6429368b21ccceb11b",
+    "date": "2026-10-22T21:41:05+08:00",
+    "subject": "Recover native animated knee offset candidate and propagation evidence"
+  },
+  {
+    "commit": "598dff944233d86820caae24ace6f513c96ecc0d",
+    "date": "2026-10-22T21:49:54+08:00",
+    "subject": "Recover original customization reset and height option candidates"
+  },
+  {
+    "commit": "10c9825b214b3845f0660a4482d238edb5efea05",
+    "date": "2026-10-22T22:03:09+08:00",
+    "subject": "Integrate original knee and customization controls with resolved CIL validation"
+  },
+  {
+    "commit": "d511287742480fa1ec13efe0c25bc14b241e56c9",
+    "date": "2026-10-22T22:19:17+08:00",
+    "subject": "Restore original skill learning, preview and stamina upgrade entry"
+  },
+  {
+    "commit": "edda7eb4a76dcc76ba696795d909e24b77fdfc2c",
+    "date": "2026-10-22T22:28:24+08:00",
+    "subject": "Verify Unity import of core gameplay recovery without replacing manual Player"
+  },
+  {
+    "commit": "5ee83515e29df4215b43bbc0de27a5290305b7ea",
+    "date": "2026-10-22T22:42:26+08:00",
+    "subject": "Restore original stamina eligibility predicate and document bounded caller evidence"
+  },
+  {
+    "commit": "fb7d5ea1a77bd1b7425d8230e5affe6271124dc3",
+    "date": "2026-10-22T23:12:38+08:00",
+    "subject": "Import skill input observer and retain first actual Editor failure"
+  },
+  {
+    "commit": "3e6aecbadcc0c86d589663b93e3805e2ad3aaa69",
+    "date": "2026-10-22T23:24:23+08:00",
+    "subject": "Handle empty Editor input pairing and preserve authorized preview shutdown"
+  },
+  {
+    "commit": "4198c62a05ddd8e25212a87082e579a76db7e16e",
+    "date": "2026-10-22T23:44:13+08:00",
+    "subject": "Verify Player walk run release and sampled Home rendering; update preview launcher"
+  },
+  {
+    "commit": "e0ac2c915880c238b633bb104561ce21cc80db9e",
+    "date": "2026-10-23T00:01:41+08:00",
+    "subject": "Observe original skill menu input and correct observer lifecycle and action reads"
+  },
+  {
+    "commit": "e85c3b29b86580154138f4cf7ad08a531aebdfb8",
+    "date": "2026-10-23T00:29:51+08:00",
+    "subject": "Verify input-driven skill purchase pose layer and return to Home movement; retain visual gap"
+  },
+  {
+    "commit": "01fa2d07fa14b66d29cb4d6a0b908fc84bce51cb",
+    "date": "2026-10-23T00:53:14+08:00",
+    "subject": "Validate standalone skill purchase pose preview and return movement; publish reviewed preview"
+  },
+  {
+    "commit": "c96717f2839c042f56470cb20b48fa36b33d3e1b",
+    "date": "2026-10-23T01:18:36+08:00",
+    "subject": "Verify actual ring pose entry alternate cancel and return movement; retain rendering gaps"
+  },
+  {
+    "commit": "dfd1d860953af093366df75361df1b8efd71ebfd",
+    "date": "2026-10-23T01:28:34+08:00",
+    "subject": "Attribute original HUD camera outputs and stage native UI option lifecycle recovery"
+  },
+  {
+    "commit": "5f7284447df1b1b71f0d6f2308aa5438485d3631",
+    "date": "2026-10-23T01:51:08+08:00",
+    "subject": "Restore native HUD option application and verify current Player pose flow"
+  },
+  {
+    "commit": "0fbdff366262848c266becdd98c2634e461ec75c",
+    "date": "2026-10-23T02:28:37+08:00",
+    "subject": "Verify standalone Home-street task settlement and persistent save continuity"
+  },
+  {
+    "commit": "fb03b2e3cfc22e7e082066b99e74db6c64c5144e",
+    "date": "2026-10-23T03:02:48+08:00",
+    "subject": "Verify standalone ring input and retain NPC observer preflight evidence"
+  },
+  {
+    "commit": "fd95edc28b4ea1d7fd26bc12e1b9184da179e8c9",
+    "date": "2026-10-23T03:21:28+08:00",
+    "subject": "Repair observer read scope and verify natural income before NPC approach"
+  },
+  {
+    "commit": "048629de1763f7350040aeebaaf25246dc101231",
+    "date": "2026-10-23T03:38:59+08:00",
+    "subject": "Retain early NPC discovery evidence and verify reopened standalone preview"
+  },
+  {
+    "commit": "8bcec58a680125e177c567461d68a1b069632fc8",
+    "date": "2026-10-23T03:39:48+08:00",
+    "subject": "Record verified native log cleanup and LayerFS checkpoint identifier format"
+  },
+  {
+    "commit": "c6077d22a9c4bf7071638635885d9db1fb1969da",
+    "date": "2026-10-23T04:01:42+08:00",
+    "subject": "Fix wheel Sprite canvas coordinates and verify standalone rendering and input"
+  },
+  {
+    "commit": "3355753faef95cabee9424588c651e90454fa7ce",
+    "date": "2026-10-23T04:07:32+08:00",
+    "subject": "Record wheel repair storage guards and pending NPC aftermath design"
+  },
+  {
+    "commit": "a9d8d272de1a7d4e817f1473d2108c8c59be197d",
+    "date": "2026-10-23T04:14:23+08:00",
+    "subject": "Prepare guarded standalone NPC aftermath integration and outcome-aware runner"
+  },
+  {
+    "commit": "1ba82cf3248112668b844c6b583c3c1725e01ba5",
+    "date": "2026-10-23T04:26:47+08:00",
+    "subject": "Observe early NPC failure aftermath with explicit outcomes and unchanged Game logic"
+  },
+  {
+    "commit": "641bab2bcda621e5d072036f1f40bb12b260ec89",
+    "date": "2026-10-23T04:39:39+08:00",
+    "subject": "Record real NPC failure return and expose stale sound listener exception"
+  },
+  {
+    "commit": "0d5e577503dbcee8a94cdd230ab7fb671d5c8056",
+    "date": "2026-10-23T04:47:26+08:00",
+    "subject": "Restore native NPC scene destruction and unregister stale sound listeners"
+  },
+  {
+    "commit": "98d3615ce86074ee25f79b498e760abb2868fcb7",
+    "date": "2026-10-23T04:55:11+08:00",
+    "subject": "Verify NPC failure return movement and cold persistence in the current preview"
+  },
+  {
+    "commit": "7bf94614657507417678327be7457aab456a8cdc",
+    "date": "2026-10-23T04:56:55+08:00",
+    "subject": "Remove verified duplicate runtime evidence and close the single-Player storage audit"
+  },
+  {
+    "commit": "3d02867733942517609f5c6271d0de33afd64187",
+    "date": "2026-10-23T05:14:41+08:00",
+    "subject": "Verify nonzero task income NPC failure return movement and cold persistence"
+  },
+  {
+    "commit": "357b592d7f418fc23a3bc590c38e0bf380b8cd60",
+    "date": "2026-10-23T05:19:40+08:00",
+    "subject": "Stage native face recovery and bounded purchase and leaf shader validation contracts"
+  },
+  {
+    "commit": "55aff55b15f6c9f9dcfffd555c0d11c2421c3011",
+    "date": "2026-10-23T05:20:28+08:00",
+    "subject": "Record reopened evidence integrity and unchanged single native Player storage"
+  },
+  {
+    "commit": "4c333e126c692d0427ec7dca8f3c84e1630e7ee2",
+    "date": "2026-10-23T05:35:40+08:00",
+    "subject": "Guard home preparation integration with strict existing Game comparison and mutation tests"
+  },
+  {
+    "commit": "85ac210cab25a604f47162ed2213eec5670c45d2",
+    "date": "2026-10-23T05:45:22+08:00",
+    "subject": "Restore native face shape application and integrate opt-in home preparation validation"
+  },
+  {
+    "commit": "c09bfab37af3a7b506c13e06666f855e38cc43a6",
+    "date": "2026-10-23T05:56:26+08:00",
+    "subject": "Correct customization observer active-scene gate and retain failed startup evidence"
+  },
+  {
+    "commit": "59dcb9fd3bf7e8d494cb5fd40252789fe3d3e9b8",
+    "date": "2026-10-23T06:07:42+08:00",
+    "subject": "Continue closet input route into original trigger and retain actual model baseline"
+  },
+  {
+    "commit": "80e252b7192aa79f8a686d196e43942075116fb9",
+    "date": "2026-10-23T06:15:57+08:00",
+    "subject": "Verify original customization UI save and cold data; record camera and purchase gaps"
+  },
+  {
+    "commit": "1dcaeb1f871d566b27a354492933edf18bec1e52",
+    "date": "2026-10-23T06:35:00+08:00",
+    "subject": "Correct purchase snapshot field identities and add passive cold camera diagnostics"
+  },
+  {
+    "commit": "0a382de8b881ccecdd6898c0961796a57c945e6e",
+    "date": "2026-10-23T06:43:34+08:00",
+    "subject": "Record actual purchase debit and persistent closet camera occlusion with remaining gates"
+  },
+  {
+    "commit": "f449c19810489dd82b233e798bd3a9eaaf412f9c",
+    "date": "2026-10-23T06:45:42+08:00",
+    "subject": "Use original child CanvasGroup for purchase menu input readiness"
+  },
+  {
+    "commit": "85e65d9908ea021c78ed98da370a2966e9808b5f",
+    "date": "2026-10-23T06:59:01+08:00",
+    "subject": "Preserve original scalar and shoe record types in purchase observation"
+  },
+  {
+    "commit": "b3ab8d698fd1ff55cc63d05df6c9a2770ab3affc",
+    "date": "2026-10-23T07:11:41+08:00",
+    "subject": "Verify purchase equip save and cold persistence; publish scoped home preparation preview"
+  },
+  {
+    "commit": "9d88faadb06c552a6e79f1e7e5d22e68cbfc5745",
+    "date": "2026-10-23T07:14:10+08:00",
+    "subject": "Verify preparation preview and retained evidence after LayerFS remount"
+  },
+  {
+    "commit": "06769ce82cb358de65df965e951477219947100f",
+    "date": "2026-10-23T07:35:44+08:00",
+    "subject": "Observe prepared character continuity through original task and NPC routes"
+  },
+  {
+    "commit": "c15f181c60706629e1a6a51f2540f19d2b1dd9fd",
+    "date": "2026-10-23T07:54:02+08:00",
+    "subject": "Verify prepared character task and zero-income failure continuity; publish playable"
+  },
+  {
+    "commit": "633251ee192c0e84ba2aa2d898161c30dc955578",
+    "date": "2026-10-23T07:54:43+08:00",
+    "subject": "Record prepared-loop release remount and storage integrity"
+  },
+  {
+    "commit": "aa83fe87813a570549a29e8fa7e964b0e187904c",
+    "date": "2026-10-23T08:17:43+08:00",
+    "subject": "Correct bounded Home route input drift without changing gameplay"
+  },
+  {
+    "commit": "928151f10e8faef72ff0c3ebfc7f8e9345c74cb1",
+    "date": "2026-10-23T08:36:12+08:00",
+    "subject": "Record actual Home route progress and preserve verified playable after candidate rejection"
+  },
+  {
+    "commit": "34ac290391a111fa7e6b53630efa4e1e8cccba51",
+    "date": "2026-10-23T08:38:13+08:00",
+    "subject": "Preserve failed Leaves import and stage exact ColorMask syntax correction"
+  },
+  {
+    "commit": "e1d6211ebee0e8905d06ebc12a82a8fed6ff5af5",
+    "date": "2026-10-23T08:48:37+08:00",
+    "subject": "Stage native NPC fade-out and deferred destruction recovery with independent review"
+  },
+  {
+    "commit": "14765cfd4af2cbb7d6b8320c6d526d49406656c1",
+    "date": "2026-10-23T08:49:39+08:00",
+    "subject": "Verify prior playable restoration and candidate archive after remount"
+  },
+  {
+    "commit": "32e4312f9fd72e7f362d28249670721a4c1da969",
+    "date": "2026-10-23T08:53:49+08:00",
+    "subject": "Restore native NPC fade-out and deferred removal; verify exact Unity method delta"
+  },
+  {
+    "commit": "f1794c7185786cb7f47c31b72c3f3758fd6c945c",
+    "date": "2026-10-23T08:57:31+08:00",
+    "subject": "Integrate recovered Leaves shader after actual five-pass D3D11 import"
+  },
+  {
+    "commit": "390e7a77f94ac5c6d30f14c74cc4944754cde3bb",
+    "date": "2026-10-23T09:08:19+08:00",
+    "subject": "Correct Home input drift and pre-lock NPC routing; verify actual Unity boundaries"
+  },
+  {
+    "commit": "42eb311b2b172ef4aec8a932e8c4836ca6fe25ee",
+    "date": "2026-10-23T09:11:16+08:00",
+    "subject": "Compare Player inventories by exact path across PowerShell versions"
+  },
+  {
+    "commit": "907ae64367df4b91df5920781bc308e8d71a52f4",
+    "date": "2026-10-23T09:19:06+08:00",
+    "subject": "Verify v3 final Player build, original Leaves domain and Game boundaries"
+  },
+  {
+    "commit": "ae556df2e3ea2326212aedc944782d5c8d521643",
+    "date": "2026-10-23T09:28:47+08:00",
+    "subject": "Publish v3 task settlement and cold-save proof; retain bounded NPC route failure"
+  },
+  {
+    "commit": "4014f1b5ecb2c5a3d6fca27846ebc4d73cdc614d",
+    "date": "2026-10-23T09:30:07+08:00",
+    "subject": "Verify v3 remount, save protection and single native Player storage"
+  },
+  {
+    "commit": "0231ff45718be0592212bcc826aa30f50a76ff58",
+    "date": "2026-10-23T09:37:55+08:00",
+    "subject": "Reserve bounded NPC query for original near-front alignment; verify Unity import"
+  },
+  {
+    "commit": "e0e518a91ccc346579fac2d96d4dfd2c38876154",
+    "date": "2026-10-23T09:45:01+08:00",
+    "subject": "Verify v4 actual Player and byte-identical inherited resource payload"
+  },
+  {
+    "commit": "d66ef162cc174173565ccd82a6e39a9bf7b60472",
+    "date": "2026-10-23T10:00:39+08:00",
+    "subject": "Publish v4 NPC failure and task reward save/cold proof in one natural profile"
+  },
+  {
+    "commit": "1d3011167604466ba391a93ebfaaef74391dd52b",
+    "date": "2026-10-23T10:04:12+08:00",
+    "subject": "Verify v4 remount, single native Player and bounded pose continuation"
+  },
+  {
+    "commit": "3bb9f161315c526dc4fc865dde3a4397974f832f",
+    "date": "2026-10-23T10:32:14+08:00",
+    "subject": "Restore five original animation event bodies and two callbacks as audited candidates"
+  },
+  {
+    "commit": "123bbbeada8e171f7e57e5d00c437e08eea36631",
+    "date": "2026-10-23T10:43:37+08:00",
+    "subject": "Stage bounded original-input pose continuity observer and strict actual-assembly audit"
+  },
+  {
+    "commit": "88af7076a817dcaa3af55786d07c02bc1b7d7546",
+    "date": "2026-10-23T10:55:05+08:00",
+    "subject": "Import original animation callbacks and verify actual Unity assembly with strict mutation controls"
+  },
+  {
+    "commit": "24cc657e1970a82ee649e280b9ba1f5fec35bbd0",
+    "date": "2026-10-23T11:10:30+08:00",
+    "subject": "Publish actual two-skill learning save/cold and same-actor pose cancellation recovery proof"
+  },
+  {
+    "commit": "a859529ff898419d42b425f9e292536a9b49bcf0",
+    "date": "2026-10-23T11:12:35+08:00",
+    "subject": "Verify pose preview remount, one native Player and preserved natural profile continuation"
+  },
+  {
+    "commit": "b53996c67499008a59c426bb7149b82376b68112",
+    "date": "2026-10-23T11:26:28+08:00",
+    "subject": "Record natural-profile route rejection and bounded UI/framing candidates"
+  },
+  {
+    "commit": "c97d3d3c2aad88d8ead2da8b0968f685c7cbec1f",
+    "date": "2026-10-23T11:46:13+08:00",
+    "subject": "Adapt core input observers to the verified post-pose cold start"
+  },
+  {
+    "commit": "0b0e8bbd4986830953b3b5b66a2538dfd5c82bba",
+    "date": "2026-10-23T12:03:58+08:00",
+    "subject": "Verify task and NPC failure continuity on the learned character profile"
+  },
+  {
+    "commit": "d362ebd8d21b99e0d0a7a0e0b8567003c6b00ceb",
+    "date": "2026-10-23T12:07:35+08:00",
+    "subject": "Close post-pose core regression storage and preserve continuation state"
+  },
+  {
+    "commit": "07fa8c25fae1eff3f9edff99d499971527ed1102",
+    "date": "2026-10-23T12:21:02+08:00",
+    "subject": "Apply bounded skill and HUD contrast fixes with unchanged-game Unity import"
+  },
+  {
+    "commit": "1bbdf58eb824654342c15097cd2b935216f2cc85",
+    "date": "2026-10-23T12:35:19+08:00",
+    "subject": "Add isolated skill browsing verification with exact unchanged-game and shader identity gates"
+  },
+  {
+    "commit": "55d209e088d7bc8757c8ca73be46cda645a67c0a",
+    "date": "2026-10-23T12:45:43+08:00",
+    "subject": "Verify and publish readable skill UI with unchanged natural profile and scoped runtime evidence"
+  },
+  {
+    "commit": "0907e944bd239b6e81dd311b7d97b091b1fee629",
+    "date": "2026-10-23T12:48:07+08:00",
+    "subject": "Record single-Player storage closure and remaining UI and gameplay verification"
+  },
+  {
+    "commit": "d8097e2828d14378071529efcf718004fc0e4db6",
+    "date": "2026-10-23T13:04:29+08:00",
+    "subject": "Pin camera source and native evidence before passive framing diagnosis"
+  },
+  {
+    "commit": "bc5cb10ef2f2ad581c7e805c7ba53ee9e9f43d3c",
+    "date": "2026-10-23T13:14:01+08:00",
+    "subject": "Add audited passive camera observations and verify actual Unity import"
+  },
+  {
+    "commit": "762bc21f774a9781d981895d3f5c7017525121c7",
+    "date": "2026-10-23T13:25:02+08:00",
+    "subject": "Verify camera diagnostic Player and preserve user-held manual preview"
+  },
+  {
+    "commit": "c2f6c30903a1ca162026337e189d78264d7f9480",
+    "date": "2026-10-23T13:32:29+08:00",
+    "subject": "Keep existing Unity log separate from exact camera validation save anchor"
+  },
+  {
+    "commit": "9bf32c22ec465f8f08227c9d36bb76f3ecea780b",
+    "date": "2026-10-23T13:41:49+08:00",
+    "subject": "Verify storage maintenance independently of gameplay launcher schema"
+  },
+  {
+    "commit": "6ad90c06ca8aa5f4cdeabaa3c4971a90210de4bb",
+    "date": "2026-10-23T13:48:51+08:00",
+    "subject": "Verify actual pose camera captures and diagnose Body preview cropping"
+  },
+  {
+    "commit": "f1e817a720952f8905099ff5662d7aa84bb65328",
+    "date": "2026-10-23T13:54:06+08:00",
+    "subject": "Record user-verified walk run and release on current Player"
+  },
+  {
+    "commit": "1710fded86ee43f0c0e92b31de0d11fca4cea6ea",
+    "date": "2026-10-23T14:29:21+08:00",
+    "subject": "Fit Body preview to current pose and audit actual Unity import"
+  },
+  {
+    "commit": "0e5c58a57481eec48d7fe1e81aeafb41438d3449",
+    "date": "2026-10-23T14:54:54+08:00",
+    "subject": "Preserve explicitly pinned Player log in build profile checks"
+  },
+  {
+    "commit": "d03191bbc83f7c28c0d16c164f8af89c75c58ac5",
+    "date": "2026-10-23T15:17:36+08:00",
+    "subject": "Keep LayerFS VHD offline during verified cache compaction"
+  },
+  {
+    "commit": "3e271121b7b611150ba7942a01dab94c07d831b5",
+    "date": "2026-10-23T15:26:41+08:00",
+    "subject": "Record actual pose flow and reject insufficient preview margins"
+  },
+  {
+    "commit": "1e8951f47a1fe7158a26436bbb586bfa446edd31",
+    "date": "2026-10-23T15:31:38+08:00",
+    "subject": "Increase preview extremity margins and audit Unity import"
+  },
+  {
+    "commit": "b5193ef95c5cd6a049c228d0a2d245a5d8de286a",
+    "date": "2026-10-23T15:51:48+08:00",
+    "subject": "Verify Body preview margins in Player and publish scoped playable build"
+  },
+  {
+    "commit": "fe444cb79655320177364b94276d8b700f649e1a",
+    "date": "2026-10-23T22:08:31+08:00",
+    "subject": "Record manual home-street acceptance and prioritize UI and audio feedback"
+  },
+  {
+    "commit": "c0089cddd56945f08b2b2e46b39a11fbee2131ed",
+    "date": "2026-10-23T22:47:28+08:00",
+    "subject": "Restore NPC feedback and stage music; make home-street menus readable"
+  },
+  {
+    "commit": "da4314f2c466c1ef10d72a335b2a999f8978a38e",
+    "date": "2026-10-23T23:03:14+08:00",
+    "subject": "Handle Unity inline null pins and report feedback observer preflight failures"
+  },
+  {
+    "commit": "d07f68fde708148616089d96c4fde0ef584b1d72",
+    "date": "2026-10-23T23:19:15+08:00",
+    "subject": "Reopen original menu for feedback browse and retain failed-input diagnostics"
+  }
+]
