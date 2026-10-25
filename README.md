@@ -20,6 +20,14 @@
 
 ---
 
+## 试玩下载（Windows x64 / Mono）
+
+**[下载最新试玩包 · feedback-v3（ZIP，1.13 GB）](https://github.com/KurosawaGeeker/sfm-recovery/releases/download/home-street-feedback-v3/sfm-home-street-feedback-v3-windows-x64-mono.zip)** · [发布说明与校验值](https://github.com/KurosawaGeeker/sfm-recovery/releases/tag/home-street-feedback-v3)
+
+完整解压后双击 **Play.cmd**，无需安装 Unity 编辑器。使用 **Mono 后端**，保留可读的 `Managed/Assembly-CSharp.dll`，未新增混淆、加密或 DRM，方便研究与修改。试玩包包含运行资源，源码仓库仍保持代码与文档快照。
+
+这是现有 `home-street-feedback-v3` 的打包发布，**仍为预览版，完整玩法及最新 UI 回归尚未全部验收**；本次未重新编译，也未重测干净系统首次启动。详见[运行说明](docs/PLAYING.zh-CN.md)。
+
 ## 游戏演示（局部打码）
 
 [![游戏演示预览：点击打开打码视频](https://github.com/KurosawaGeeker/sfm-recovery/releases/download/demo-20261025/sfm-demo-preview.jpg)](https://github.com/KurosawaGeeker/sfm-recovery/releases/download/demo-20261025/sfm-gameplay-censored.mp4)
@@ -32,7 +40,7 @@
 
 用 Codex、REA 和实际 Unity Player，逐步恢复 SFM 的游戏代码与行为。目前集中在“家 → 街区 → 回家”的主要流程。
 
-这个仓库公开 **Unity C# 源码快照和逆向过程记录**，不包含原游戏、静态资源或可执行构建。它是仍在验证中的研究工程，不是完整还原版，也不能仅凭本仓库直接构建可玩的游戏。
+这个仓库的 Git 源码树公开 **Unity C# 源码快照和逆向过程记录**，不包含原游戏、静态资源或可执行构建；独立的 Release 试玩包提供运行产物及其所需资源。它是仍在验证中的研究工程，不是完整还原版，也不能仅凭本仓库直接构建可玩的游戏。
 
 ## 这次公开了什么
 
@@ -61,7 +69,7 @@
 
 ## 不包含什么
 
-不包含模型、贴图、材质、Shader 资源、音频、字体、动画、场景、Prefab、存档、原生 DLL/EXE、Unity 缓存、私密配置或原始会话日志。原始本地 Git 历史含资源，未推送到公开仓库。Unity 版本为 **2022.3.62f2**，实际运行还需要合法取得的资源和依赖。
+Git 源码树不包含模型、贴图、材质、Shader 资源、音频、字体、动画、场景、Prefab、存档、原生 DLL/EXE、Unity 缓存、私密配置或原始会话日志。Release 试玩包是单独的运行产物，包含运行所需资源，不包含用户存档、凭据或本机日志。原始本地 Git 历史含资源，未推送到公开仓库。Unity 版本为 **2022.3.62f2**；从源码重新构建仍需要另备相应资源和依赖。
 
 可先检查这份公开快照：
 
