@@ -20,6 +20,14 @@
 
 ---
 
+## 游戏演示（局部打码）
+
+[![游戏演示预览：点击打开打码视频](https://github.com/KurosawaGeeker/sfm-recovery/releases/download/demo-20261025/sfm-demo-preview.jpg)](https://github.com/KurosawaGeeker/sfm-recovery/releases/download/demo-20261025/sfm-gameplay-censored.mp4)
+
+**[打开 / 下载完整视频（MP4，约 99 秒，1080p，58 MB）](https://github.com/KurosawaGeeker/sfm-recovery/releases/download/demo-20261025/sfm-gameplay-censored.mp4)** · [演示发布页](https://github.com/KurosawaGeeker/sfm-recovery/releases/tag/demo-20261025)
+
+用户提供的演示录像，已对乳头、下体及人物预览中的对应部位作局部遮挡，保留原声。视频展示街区行动、NPC 反应与失败返家、商店及外形界面；不代表全部逆向目标已经完成。
+
 ## 项目说明
 
 用 Codex、REA 和实际 Unity Player，逐步恢复 SFM 的游戏代码与行为。目前集中在“家 → 街区 → 回家”的主要流程。
